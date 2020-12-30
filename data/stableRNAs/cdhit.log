@@ -3,7 +3,7 @@ Program: CD-HIT, V4.8.1 (+OpenMP), Dec 05 2019, 19:51:40
 Command: cd-hit -i data/stableRNAs.fa -o
          data/stableRNAs/cdhitOut.fa -c 0.99 -M 1000 -T 8 -sc 1
 
-Started: Tue Dec 29 22:54:54 2020
+Started: Wed Dec 30 12:08:10 2020
 ================================================================
                             Output                              
 ----------------------------------------------------------------
@@ -33,4 +33,4 @@ writing new database
 writing clustering information
 program completed !
 
-Total CPU time 0.21
+Total CPU time 0.20

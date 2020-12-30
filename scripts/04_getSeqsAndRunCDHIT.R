@@ -34,6 +34,7 @@ c(seqs$pfei$rna, seqs$ncbi$rna) %>%
 # unifying and saving cds
 c(seqs$pfei$cds, seqs$ncbi$cds) %>% 
   translate(x = ., genetic.code = arc) %>% 
+  c(., custCDS) %>% 
   writeXStringSet(filepath = "data/cds.fa",
                   format = "fasta")
 

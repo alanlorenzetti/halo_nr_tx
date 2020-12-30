@@ -3,6 +3,8 @@
 # description ####
 # this script will download 
 # Halobacterium salinarum annotation from NCBI RefSeq ftp
+# it is going to read the custom sequence file 
+# derived from Ng et al. 2000
 
 # downloading files from web resources ####
 
@@ -45,3 +47,11 @@ ncbiCDS[["gr"]] = GRanges(seqnames = ncbiCDS[["annot"]]$seqnames,
                                            end = ncbiCDS[["annot"]]$end),
                           strand = ncbiCDS[["annot"]]$strand)
 ncbiCDS[["gr"]]$locus_tag = ncbiCDS[["annot"]]$locus_tag
+
+# loading and parsing custom protein sequence file
+custCDS = readAAStringSet(filepath = "data/Hsalinarum_pi2s.fasta",
+                           format = "fasta")
+
+# removing non halo seqs and parsing names
+custCDS = custCDS[1:2646]
+names(custCDS) = str_replace(names(custCDS), " .*$", "")
