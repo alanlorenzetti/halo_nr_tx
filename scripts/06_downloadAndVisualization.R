@@ -8,5 +8,5 @@
 
 #' Download the dictionary file (here)[https://alanlorenzetti.github.io/halo_nr_tx/data/dictionary.tsv].  
 
-#' An interactive and searchable version of the locus_tag dictionary is available below
+#' An interactive and browsable version of the locus_tag dictionary is available below
 datatable(dict)
