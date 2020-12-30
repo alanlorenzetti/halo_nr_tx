@@ -3,7 +3,7 @@ Program: CD-HIT, V4.8.1 (+OpenMP), Dec 05 2019, 19:51:40
 Command: cd-hit -i data/stableRNAs.fa -o
          data/stableRNAs/cdhitOut.fa -c 0.99 -M 1000 -T 8 -sc 1
 
-Started: Wed Dec 30 12:24:16 2020
+Started: Wed Dec 30 12:28:47 2020
 ================================================================
                             Output                              
 ----------------------------------------------------------------

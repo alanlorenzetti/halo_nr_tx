@@ -1,5 +1,5 @@
 #' ---
-#' title: "Halobacterium salinarum NRC-1 non-redundant transcriptome"
+#' title: "_Halobacterium salinarum_ NRC-1 non-redundant transcriptome"
 #' author: "Alan Lorenzetti"
 #' date: "Dec 30th, 2020"
 #' ---
