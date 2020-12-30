@@ -1,0 +1,36 @@
+================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Dec 05 2019, 19:51:40
+Command: cd-hit -i data/stableRNAs.fa -o
+         data/stableRNAs/cdhitOut.fa -c 0.99 -M 1000 -T 8 -sc 1
+
+Started: Tue Dec 29 22:54:54 2020
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 104
+longest and shortest : 2914 and 71
+Total letters: 17906
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 8 X 11M = 88M
+Table           : 2 X 65M = 130M
+Miscellaneous   : 0M
+Total           : 219M
+
+Table limit with the given memory limit:
+Max number of representatives: 1650157
+Max number of word counting entries: 97547929
+
+# comparing sequences from          0  to        104
+---------- new table with       52 representatives
+
+      104  finished         52  clusters
+
+Approximated maximum memory consumption: 219M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.21
