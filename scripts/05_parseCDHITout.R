@@ -65,8 +65,8 @@ parseCDHIT = function(cdhitoutfile){
 # running for rna and cds datasets
 clusters = list()
 
-clusters[["rna"]] = parseCDHIT("data/stableRNAs/cdhitOut.clstr")
-clusters[["cds"]] = parseCDHIT("data/cds/cdhitOut.clstr")
+clusters[["rna"]] = parseCDHIT("data/stableRNAs/cdhitOut.fa.clstr")
+clusters[["cds"]] = parseCDHIT("data/cds/cdhitOut.fa.clstr")
 
 # writing a non-redundant transcriptome fasta file for rnas and cds
 nrtx = c(seqs$pfei$rna[names(seqs$pfei$rna) %in% sort(clusters$rna$representative)],
