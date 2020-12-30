@@ -48,9 +48,10 @@ parseCDHIT = function(cdhitoutfile){
   
   clusters = clusters[mixedorder(x = clusters$cluster),]
   
-  # removing clusters of a single entry coming only from NCBI
+  # removing clusters of a single entry coming only from NCBI or custom annot
   clusters = clusters %>% 
-    filter(!str_detect(locus_tag, pattern = "^VNG_RS"))
+    filter(!str_detect(locus_tag, pattern = "^VNG_RS")) %>% 
+    filter(str_detect(locus_tag, pattern = "VNG_"))
   
   # a representative sequence will be elected
   # as a simplifying rule, the first entry from locus_tag col
