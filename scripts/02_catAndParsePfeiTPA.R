@@ -7,7 +7,7 @@
 # third party annotation
 
 # concatenating files ####
-system2("cat", "data/chr.gff3 data/pnrc200.gff3 data/pnrc100.gff3",
+system2("cat", "data/chr.gff3 data/pnrc100.gff3 data/pnrc200.gff3",
         stdout = "data/pfeiTPA.gff3.tmp")
 
 # parsing ####
