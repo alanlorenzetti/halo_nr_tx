@@ -3,7 +3,7 @@ Program: CD-HIT, V4.8.1 (+OpenMP), Dec 05 2019, 19:51:40
 Command: cd-hit -i data/cds.fa -o data/cds/cdhitOut.fa -c 0.95
          -M 1000 -T 8 -sc 1
 
-Started: Wed Dec 30 12:28:48 2020
+Started: Sun Feb 14 01:35:22 2021
 ================================================================
                             Output                              
 ----------------------------------------------------------------
@@ -75,6 +75,42 @@ Discarding invalid sequence or sequence without identifier and description!
 >VNG_1654a
 EDYDCKNKVELALVGGPVVLNAAVDYQTSTVVTGETTTQPLSEKLRPDGGAVTGVTSEQTPVVHEVDHQDCACDDLRDDF
 P*WPCVRTGRRELPE
+Warning: from file "data/cds.fa",
+Discarding invalid sequence or sequence without identifier and description!
+
+>VNG_7055
+MTEDSHDLVIAGSGIAGLSAAVYAARADLEPLVLEGDEPGGQLTLTTDVENYLGFPDGVGGMDLVQRGKEQAEQFGAQFE
+HGRIEAADLDGQPLELSLSTGDTLYTRSLIVATGASARWVGAENEDELMGAGLSTCATCDGAFHRGDDVLVVGGGDSAME
+EALFLAKFADSVTVVHRREELRASEIMADRARDHDDVQFRWNTEL*AIHGSQETGVTGATLVSHPDGYPTEKAESGVDVE
+RETVDVGGVFYAVGHTPNTRFLDETAVERDESGYIFTQADDVGRPTARTSVDGVFAAGDVADPRYRQAITSAGTGSMAAL
+DAEEFLETLRESDELTATATA
+Warning: from file "data/cds.fa",
+Discarding invalid sequence or sequence without identifier and description!
+
+>VNG_7117
+MTADDVGPENPRSEGHYPRFADNEWHYISDELAQTISLGPAGDGEDGQDWVLTYTPSERTRRTGRKYWCG*RRGRFMSST
+SRRKASRLTSECTVTARSVISAATKSVSMRRSPTNVGSPATNAAGPSIRAHQTGSATTC
+Warning: from file "data/cds.fa",
+Discarding invalid sequence or sequence without identifier and description!
+
+>VNG_7119a
+MEVRRTVPVKLDVTDEQADLLHETIDEFLWAANYVVDAAWDGE*AETRSSVLHEMT
+Warning: from file "data/cds.fa",
+Discarding invalid sequence or sequence without identifier and description!
+
+>VNG_7135
+MSNSSPETHDFDAWFPGVFDGEGCIRIAIADRERYSTGFELAPMLRITHEQLTGTLDAEGWIGVKVNQNSEYRVDHRLQP
+RIEVTETYRDHLMQALCAYCDTHDVNCHVSSLEPNEDRSDQYIWGVRGINNTKTILTPLRDQFIVKRE*VDLLLDEIIPR
+MERGVRHDREGYRRTVWTLCIGHTVTEGCLKNSALLK
+Warning: from file "data/cds.fa",
+Discarding invalid sequence or sequence without identifier and description!
+
+>VNG_7154
+MTEDSHDLVIAGSGIAGLSAAVYAARADLEPLVLEGDEPGGQLTLTTDVENYLGFPDGVGGMDLVQRGKEQAEQFGAQFE
+HGRIEAADLDGQPLELSLSTGDTLYTRSLIVATGASARWVGAENEDELMGAGLSTCATCDGAFHRGDDVLVVGGGDSAME
+EALFLAKFADSVTVVHRREELRASEIMADRARDHDDVQFRWNTEL*AIHGSQETGVTGATLVSHPDGYPTEKAESGVDVE
+RETVDVGGVFYAVGHTPNTRFLDETAVERDESGYIFTQADDVGRPTARTSVDGVFAAGDVADPRYRQAITSAGTGSMAAL
+DAEEFLETLRESDELTATATA
 Warning: from file "data/cds.fa",
 Discarding invalid sequence or sequence without identifier and description!
 
@@ -206,42 +242,6 @@ DAEEFLETLRESDELTATATA
 Warning: from file "data/cds.fa",
 Discarding invalid sequence or sequence without identifier and description!
 
->VNG_7055
-MTEDSHDLVIAGSGIAGLSAAVYAARADLEPLVLEGDEPGGQLTLTTDVENYLGFPDGVGGMDLVQRGKEQAEQFGAQFE
-HGRIEAADLDGQPLELSLSTGDTLYTRSLIVATGASARWVGAENEDELMGAGLSTCATCDGAFHRGDDVLVVGGGDSAME
-EALFLAKFADSVTVVHRREELRASEIMADRARDHDDVQFRWNTEL*AIHGSQETGVTGATLVSHPDGYPTEKAESGVDVE
-RETVDVGGVFYAVGHTPNTRFLDETAVERDESGYIFTQADDVGRPTARTSVDGVFAAGDVADPRYRQAITSAGTGSMAAL
-DAEEFLETLRESDELTATATA
-Warning: from file "data/cds.fa",
-Discarding invalid sequence or sequence without identifier and description!
-
->VNG_7117
-MTADDVGPENPRSEGHYPRFADNEWHYISDELAQTISLGPAGDGEDGQDWVLTYTPSERTRRTGRKYWCG*RRGRFMSST
-SRRKASRLTSECTVTARSVISAATKSVSMRRSPTNVGSPATNAAGPSIRAHQTGSATTC
-Warning: from file "data/cds.fa",
-Discarding invalid sequence or sequence without identifier and description!
-
->VNG_7119a
-MEVRRTVPVKLDVTDEQADLLHETIDEFLWAANYVVDAAWDGE*AETRSSVLHEMT
-Warning: from file "data/cds.fa",
-Discarding invalid sequence or sequence without identifier and description!
-
->VNG_7135
-MSNSSPETHDFDAWFPGVFDGEGCIRIAIADRERYSTGFELAPMLRITHEQLTGTLDAEGWIGVKVNQNSEYRVDHRLQP
-RIEVTETYRDHLMQALCAYCDTHDVNCHVSSLEPNEDRSDQYIWGVRGINNTKTILTPLRDQFIVKRE*VDLLLDEIIPR
-MERGVRHDREGYRRTVWTLCIGHTVTEGCLKNSALLK
-Warning: from file "data/cds.fa",
-Discarding invalid sequence or sequence without identifier and description!
-
->VNG_7154
-MTEDSHDLVIAGSGIAGLSAAVYAARADLEPLVLEGDEPGGQLTLTTDVENYLGFPDGVGGMDLVQRGKEQAEQFGAQFE
-HGRIEAADLDGQPLELSLSTGDTLYTRSLIVATGASARWVGAENEDELMGAGLSTCATCDGAFHRGDDVLVVGGGDSAME
-EALFLAKFADSVTVVHRREELRASEIMADRARDHDDVQFRWNTEL*AIHGSQETGVTGATLVSHPDGYPTEKAESGVDVE
-RETVDVGGVFYAVGHTPNTRFLDETAVERDESGYIFTQADDVGRPTARTSVDGVFAAGDVADPRYRQAITSAGTGSMAAL
-DAEEFLETLRESDELTATATA
-Warning: from file "data/cds.fa",
-Discarding invalid sequence or sequence without identifier and description!
-
 >VNG_RS00850
 MTLGVVDRTLCALFARHADRDRHTTTRTRYREARPGVGFGAFVARVYAVSWLACAAVGAAVSVGGVASGVRVPVLNEGQQ
 VAGWLACGALVGAAAKRATVRAGDRYLAWRAGLRRAAIRATLPGAVRYLSVLASGTPSERDLLARAAARTGAYGETAAAF
@@ -356,9 +356,9 @@ HGRIEAADLDGQPLELSLSTGDTLYTRSLIVATGASARWVGAENEDELMGAGLSTCATCDGAFHRGDDVLVVGGGDSAME
 EALFLAKFADSVTVVHRREELRASEIMADRARDHDDVQFRWNTEL*AIHGSQETGVTGATLVSHPDGYPTEKAESGVDVE
 RETVDVGGVFYAVGHTPNTRFLDETAVERDESGYIFTQADDVGRPTARTSVDGVFAAGDVADPRYRQAITSAGTGSMAAL
 DAEEFLETLRESDELTATATA
-total seq: 8162
+total seq: 8163
 longest and shortest : 1370 and 20
-Total letters: 2259650
+Total letters: 2259441
 Sequences have been sorted
 
 Approximated minimal memory consumption:
@@ -370,7 +370,7 @@ Total           : 221M
 
 Table limit with the given memory limit:
 Max number of representatives: 1662449
-Max number of word counting entries: 97330271
+Max number of word counting entries: 97330265
 
 # comparing sequences from          0  to        816
 ---------- new table with      268 representatives
@@ -383,69 +383,69 @@ Max number of word counting entries: 97330271
 # comparing sequences from       1469  to       2138
 ...................----------    365 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       1773  to       2411
-.....................----------    260 remaining sequences to the next cycle
+# comparing sequences from       1773  to       2412
+.....................----------    262 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       2151  to       2752
-..................----------    289 remaining sequences to the next cycle
+# comparing sequences from       2150  to       2751
+...................----------    288 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       2463  to       3032
-..................----------    223 remaining sequences to the next cycle
+# comparing sequences from       2463  to       3033
+...................----------    225 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       2809  to       3344
-...................----------    248 remaining sequences to the next cycle
+# comparing sequences from       2808  to       3343
+.....................----------    249 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       3096  to       3602
-...................----------    183 remaining sequences to the next cycle
+# comparing sequences from       3094  to       3600
+...................----------    182 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       3419  to       3893
-....................----------    166 remaining sequences to the next cycle
+# comparing sequences from       3418  to       3892
+..................----------    166 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       3727  to       4170
-....................----------    153 remaining sequences to the next cycle
+# comparing sequences from       3726  to       4169
+.....................----------    152 remaining sequences to the next cycle
 ---------- new table with      100 representatives
 # comparing sequences from       4017  to       4431
-...................----------    103 remaining sequences to the next cycle
+...................----------    102 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       4328  to       4711
-..................----------     79 remaining sequences to the next cycle
+# comparing sequences from       4329  to       4712
+..................----------     80 remaining sequences to the next cycle
 ---------- new table with      100 representatives
 # comparing sequences from       4632  to       4985
-..................----------     38 remaining sequences to the next cycle
+...................----------     37 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       4947  to       5268
-...................---------- new table with       99 representatives
-# comparing sequences from       5268  to       5557
+# comparing sequences from       4948  to       5269
+..................---------- new table with      100 representatives
+# comparing sequences from       5269  to       5558
 ..................----------     12 remaining sequences to the next cycle
 ---------- new table with      100 representatives
-# comparing sequences from       5545  to       5806
-.................---------- new table with       84 representatives
-# comparing sequences from       5806  to       6041
-.....................---------- new table with       75 representatives
-# comparing sequences from       6041  to       6253
+# comparing sequences from       5546  to       5807
+.................---------- new table with       83 representatives
+# comparing sequences from       5807  to       6042
+...................---------- new table with       75 representatives
+# comparing sequences from       6042  to       6254
 .................---------- new table with       72 representatives
-# comparing sequences from       6253  to       6443
+# comparing sequences from       6254  to       6444
 .................---------- new table with       58 representatives
-# comparing sequences from       6443  to       6614
-...................---------- new table with       55 representatives
-# comparing sequences from       6614  to       6768
-.................---------- new table with       45 representatives
-# comparing sequences from       6768  to       6907
+# comparing sequences from       6444  to       6615
+..................---------- new table with       55 representatives
+# comparing sequences from       6615  to       6769
+.................---------- new table with       46 representatives
+# comparing sequences from       6769  to       6908
 ..................---------- new table with       51 representatives
-# comparing sequences from       6907  to       7032
+# comparing sequences from       6908  to       7033
+..................---------- new table with       36 representatives
+# comparing sequences from       7033  to       7146
 .................---------- new table with       38 representatives
-# comparing sequences from       7032  to       7145
-...................---------- new table with       37 representatives
-# comparing sequences from       7145  to       7246
-..............---------- new table with       40 representatives
-# comparing sequences from       7246  to       8162
-....................---------- new table with      306 representatives
+# comparing sequences from       7146  to       7247
+...............---------- new table with       40 representatives
+# comparing sequences from       7247  to       8163
+.....................---------- new table with      306 representatives
 
-     8162  finished       2628  clusters
+     8163  finished       2628  clusters
 
 Approximated maximum memory consumption: 223M
 writing new database
 writing clustering information
 program completed !
 
-Total CPU time 3.22
+Total CPU time 3.18
