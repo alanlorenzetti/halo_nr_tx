@@ -40,7 +40,7 @@ c(seqs$pfei$cds, seqs$ncbi$cds) %>%
 
 # running cd-hit using stable RNA files
 if(!dir.exists("data/stableRNAs")){dir.create("data/stableRNAs")}
-cdhit = c("cd-hit",
+cdhit = c("/Users/alorenzetti/CompiledPrograms/cdhit-4.8.1/cd-hit",
           "-i data/stableRNAs.fa",
           "-o data/stableRNAs/cdhitOut.fa",
           "-c 0.99",
@@ -55,7 +55,7 @@ system2(command = cdhit[1],
 
 # running cd-hit using cds files
 if(!dir.exists("data/cds")){dir.create("data/cds")}
-cdhit = c("cd-hit",
+cdhit = c("/Users/alorenzetti/CompiledPrograms/cdhit-4.8.1/cd-hit",
           "-i data/cds.fa",
           "-o data/cds/cdhitOut.fa",
           "-c 0.95",

@@ -1,0 +1,1500 @@
+representative	gene_symbol	cog_id	cog_name	cog_category	functional_pathway
+VNG_0002G	LolD	COG1136	ABC-type lipoprotein export system, ATPase component	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0003C	LolE	COG4591	ABC-type transport system involved in lipoprotein release, permease component LolC	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0005H	Stt3	COG1287	Asparagine N-glycosylation enzyme, membrane subunit Stt3	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0006G	GlmS	COG0449	Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0008G	GCD1	COG1208	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0009G	GCD1	COG1208	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0011C	WcaJ	COG2148	Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid)	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0013C	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_0015H	MazF	COG2337	mRNA-degrading endonuclease MazF, toxin component of the MazEF toxin-antitoxin module	Defense mechanisms	Undefined
+VNG_0021H	Undefined	COG3436	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_0026C	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_0028C	Csa3	COG3415	CRISPR-associated protein Csa3, CARF domain	Defense mechanisms	CRISPR-Cas system
+VNG_0035H	IS5	COG3039	Transposase and inactivated derivatives, IS5 family	Mobilome: prophages, transposons	Undefined
+VNG_0038H	YcfA	COG1724	Predicted RNA binding protein YcfA, dsRBD-like fold, HicA-like mRNA interferase family	General function prediction only	Undefined
+VNG_0040C	Undefined	COG4190	Predicted transcriptional regulator, contains HTH domain	Transcription	Undefined
+VNG_0042G	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_0043H	RAYT	COG1943	REP element-mobilizing transposase RayT	Mobilome: prophages, transposons	Undefined
+VNG_0044H	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_0045C	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_0046G	Ugd	COG1004	UDP-glucose 6-dehydrogenase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0047G	RmlA1	COG1209	dTDP-glucose pyrophosphorylase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0050C	RfbX	COG2244	Membrane protein involved in the export of O-antigen and teichoic acid	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0051G	RfaB	COG0438	Glycosyltransferase involved in cell wall bisynthesis	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0052H	InsG	COG3385	IS4 transposase InsG	Mobilome: prophages, transposons	Undefined
+VNG_0056H	Undefined	COG3436	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_0059H	InsG	COG3385	IS4 transposase InsG	Mobilome: prophages, transposons	Undefined
+VNG_0061C	AslA	COG3119	Arylsulfatase A or related enzyme, AlkP superfamily	Inorganic ion transport and metabolism	Undefined
+VNG_0062G	RfaB	COG0438	Glycosyltransferase involved in cell wall bisynthesis	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0063G	WcaG	COG0451	Nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0064G	RmlA1	COG1209	dTDP-glucose pyrophosphorylase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0065G	WcaG	COG0451	Nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0070H	RelE	COG2026	mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system	Defense mechanisms	Undefined
+VNG_0072H	Undefined	COG2402	Predicted nucleic acid-binding protein, contains PIN domain	General function prediction only	Undefined
+VNG_0080H	VanZ	COG5652	VanZ-like family protein (function unknown)	Function unknown	Undefined
+VNG_0081G	MoaE	COG0314	Molybdopterin synthase catalytic subunit MoaE	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_0084G	ThiF	COG0476	Molybdopterin or thiamine biosynthesis adenylyltransferase	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_0085G	MoaA	COG2896	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_0086G	MoeA|YvgK	COG0303|COG1910	Molybdopterin Mo-transferase (molybdopterin biosynthesis)|Periplasmic molybdate-binding protein/domain	Coenzyme transport and metabolism|Inorganic ion transport and metabolism	Molybdopterin biosynthesis|Undefined
+VNG_0089G	Pcm	COG2518	Protein-L-isoaspartate O-methyltransferase	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0090G	MoeA	COG0303	Molybdopterin Mo-transferase (molybdopterin biosynthesis)	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_0094C	Undefined	COG1326	Uncharacterized archaeal Zn-finger protein	General function prediction only	Undefined
+VNG_0095G	GapA	COG0057	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase	Carbohydrate transport and metabolism	Glycolysis
+VNG_0096C	AmpS	COG2309	Leucyl aminopeptidase (aminopeptidase T)	Amino acid transport and metabolism	Undefined
+VNG_0097G	IbpA	COG0071	Small heat shock protein IbpA, HSP20 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0098G	LysX	COG0189	Glutathione synthase, LysX or RimK-type ligase, ATP-grasp superfamily	Amino acid transport and metabolism	Lysine biosynthesis
+VNG_0099G	RplP	COG0197	Ribosomal protein L16/L10AE	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_0101G	CspC	COG1278	Cold shock protein, CspA family	Transcription	Undefined
+VNG_0102C	Gph	COG0546	Phosphoglycolate phosphatase, HAD superfamily	Energy production and conversion	Undefined
+VNG_0104G	SerA	COG0111	Phosphoglycerate dehydrogenase or related dehydrogenase	Coenzyme transport and metabolism	Serine biosynthesis
+VNG_0106G	HsdM	COG0286	Type I restriction-modification system, DNA methylase subunit	Defense mechanisms	Undefined
+VNG_0107G	HsdS	COG0732	Restriction endonuclease S subunit	Defense mechanisms	Undefined
+VNG_0108G	Undefined	COG0610	Type I site-specific restriction-modification system, R (restriction) subunit and related helicases ...	Defense mechanisms	Undefined
+VNG_0110C	YgjP	COG1451	UTP pyrophosphatase, metal-dependent hydrolase family	General function prediction only	Undefined
+VNG_0113H	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_0115G	YdfG	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	Energy production and conversion	Pyrimidine degradation
+VNG_0121H	Undefined	COG1430	Uncharacterized conserved membrane protein, UPF0127 family	Function unknown	Undefined
+VNG_0123G	MdlB	COG1132	ABC-type multidrug transport system, ATPase and permease component	Defense mechanisms	Undefined
+VNG_0124C	ArfB	COG1402	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	Coenzyme transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_0127C	MptD	COG2098	7,8-dihydroneopterin aldolase MptD (tetrahydrofolate and tetrahydromethanopterin biosynthesis)	Coenzyme transport and metabolism	Undefined
+VNG_0128C	WcaG	COG0451	Nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0129G	HtpX	COG0501	Zn-dependent protease with chaperone function	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0133G	RFA1	COG1599	ssDNA-binding replication factor A, large subunit	Replication, recombination and repair	Undefined
+VNG_0134G	HHT1	COG2036	Archaeal histone H3/H4	Chromatin structure and dynamics	Undefined
+VNG_0136G	AcuC	COG0123	Acetoin utilization deacetylase AcuC or a related deacetylase	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_0137G	CCA1	COG1746	tRNA nucleotidyltransferase (CCA-adding enzyme)	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_0142C	Undefined	COG3355	Predicted transcriptional regulator	Transcription	Undefined
+VNG_0144H	Undefined	COG3439	Uncharacterized conserved protein, DUF302 family	Function unknown	Undefined
+VNG_0147C	NikR	COG0864	Metal-responsive transcriptional regulator, contains CopG/Arc/MetJ DNA-binding domain	Transcription	Undefined
+VNG_0149G	ZntA	COG2217	Cation-transporting P-type ATPase	Inorganic ion transport and metabolism	Undefined
+VNG_0152G	Sco1	COG1999	Cytochrome oxidase Cu insertion factor, SCO1/SenC/PrrC family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0154G	Lpd	COG1249	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Energy production and conversion	Glycine cleavagePyruvate oxidation
+VNG_0156C	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_0158G	RbsK	COG0524	Sugar or nucleoside kinase, ribokinase family	Carbohydrate transport and metabolism	Glycolysis
+VNG_0159G	MutL	COG0323	DNA mismatch repair ATPase MutL	Replication, recombination and repair	Undefined
+VNG_0160G	PAS|GAF|DmsR	COG2202|COG2203|COG3413	PAS domain|GAF domain|Predicted transcriptional regulator, contains HTH domain	Signal transduction mechanisms|General function prediction only	Undefined
+VNG_0161G	GdhA	COG0334	Glutamate dehydrogenase/leucine dehydrogenase	Amino acid transport and metabolism	Glutamine biosynthesis
+VNG_0162G	MenE/FadK	COG0318	O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)	Lipid transport and metabolism	Menaquinone biosynthesis
+VNG_0163G	MutS	COG0249	DNA mismatch repair ATPase MutS	Replication, recombination and repair	Undefined
+VNG_0164G	HypE	COG0309	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0166G	PRE1	COG0638	20S proteasome, alpha and beta subunits	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0170C	FrnE	COG2761	Predicted dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0171C	NucS	COG1637	Endonuclease NucS, RecB family	Replication, recombination and repair	Undefined
+VNG_0172G	MutS	COG0249	DNA mismatch repair ATPase MutS	Replication, recombination and repair	Undefined
+VNG_0174G	PotE	COG0531	Serine transporter YbeC, amino acid:H+ symporter family	Amino acid transport and metabolism	Undefined
+VNG_0175G	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_0176H	MnaT	COG1247	L-amino acid N-acyltransferase MnaT	Amino acid transport and metabolism	Undefined
+VNG_0177G	RPL15A	COG1632	Ribosomal protein L15E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_0179C	RIO2	COG0478	RIO-like serine/threonine protein kinase fused to N-terminal HTH domain	Signal transduction mechanisms	Undefined
+VNG_0180G	Undefined	COG5524	Bacteriorhodopsin	Energy production and conversion	Undefined
+VNG_0181G	LplA	COG0095	Lipoate-protein ligase A	Coenzyme transport and metabolism	Lipoate biosynthesis
+VNG_0183G	Nfo	COG0648	Endonuclease IV	Replication, recombination and repair	Undefined
+VNG_0186G	AmpS	COG2309	Leucyl aminopeptidase (aminopeptidase T)	Amino acid transport and metabolism	Undefined
+VNG_0189C	YdhJ	COG1078	HD superfamily phosphohydrolase	General function prediction only	Undefined
+VNG_0190C	TilS	COG0037	tRNA(Ile)-lysidine synthase TilS/MesJ	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_0192G	FtsZ	COG0206	Cell division GTPase FtsZ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_0209H	XerD	COG4974	Site-specific recombinase XerD	Replication, recombination and repair	Undefined
+VNG_0215C	Undefined	COG4983	Primase-polymerase (Primpol) domain protein	Mobilome: prophages, transposons	Undefined
+VNG_0222C	YeaD2	COG1721	Uncharacterized conserved protein, DUF58 family, contains vWF domain	Function unknown	Undefined
+VNG_0223G	MoxR	COG0714	MoxR-like ATPase	General function prediction only	Cobalamine/B12 biosynthesis
+VNG_0226G	DegQ	COG0265	Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0227H	Undefined	COG1430	Uncharacterized conserved membrane protein, UPF0127 family	Function unknown	Undefined
+VNG_0228G	GuaA1	COG0518	GMP synthase, glutamine amidotransferase domain	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_0230C	Undefined	COG3356	Predicted membrane-associated lipid hydrolase, neutral ceramidase superfamily	Lipid transport and metabolism	Undefined
+VNG_0231C	GloB	COG0491	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	General function prediction only	Undefined
+VNG_0234a	Pcc1	COG2892	tRNA threonylcarbamoyladenosine modification (KEOPS) complex,  Pcc1 subunit	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_0234C	GimC	COG1382	Prefoldin, chaperonin cofactor	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0237H	RPC10	COG1996	DNA-directed RNA polymerase, subunit RPC12/RpoP, contains C4-type Zn-finger	Transcription	RNA polymerase
+VNG_0239C	RPL43A	COG1997	Ribosomal protein L37AE/L43A	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_0240C	Undefined	COG4031	Uncharacterized metal-binding protein, DUF2103 family	Function unknown	Undefined
+VNG_0243a	Pth2	COG1990	Peptidyl-tRNA hydrolase	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0243C	TruD	COG0585	tRNA(Glu) U13 pseudouridine synthase TruD	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_0245G	Dcd	COG0717	dCTP deaminase	Nucleotide transport and metabolism	Thymidylate biosynthesis
+VNG_0247C	Undefined|AF0184	COG1992|COG2522	Predicted transcriptional regulator fused phosphomethylpyrimidine kinase (thiamin biosynthesis)|Predicted transcriptional regulator, contains XRE-type HTH domain	General function prediction only|Transcription	Undefined
+VNG_0249G	PetE	COG3794	Plastocyanin	Energy production and conversion	Undefined
+VNG_0250C	aPPS	COG1701	Archaeal phosphopantothenate synthetase	Coenzyme transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_0251C	Undefined	COG1829	Archaeal pantoate kinase	Coenzyme transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_0252C	PcrB	COG1646	Glycerol-1-phosphate heptaprenyltransferase	Lipid transport and metabolism	Undefined
+VNG_0254G	SUA7	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	Transcription	Undefined
+VNG_0255C	RnhA	COG0328	Ribonuclease HI	Replication, recombination and repair	Undefined
+VNG_0259G	Ppa	COG0221	Inorganic pyrophosphatase	Energy production and conversion	Undefined
+VNG_0262C	NrnA	COG0618	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	Nucleotide transport and metabolism	Undefined
+VNG_0264H	Undefined	COG3379	Predicted phosphohydrolase or phosphomutase, AlkP superfamily	General function prediction only	Undefined
+VNG_0265G	FtsZ	COG0206	Cell division GTPase FtsZ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_0267H	WcaG	COG0451	Nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0268C	PdxI	COG0667	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	Coenzyme transport and metabolism	Undefined
+VNG_0270C	AraJ	COG2814	Predicted arabinose efflux permease AraJ, MFS family	Carbohydrate transport and metabolism	Undefined
+VNG_0274C	MutT	COG0494	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	Defense mechanisms	Undefined
+VNG_0277G	Undefined	COG3349	Uncharacterized protein, contains NAD-binding domain and a Fe-S cluster	General function prediction only	Undefined
+VNG_0281G	DadA	COG0665	Glycine/D-amino acid oxidase (deaminating)	Amino acid transport and metabolism	Undefined
+VNG_0283C	IbpA	COG0071	Small heat shock protein IbpA, HSP20 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0284C	TM1601	COG1031	Radical SAM superfamily enzyme with C-terminal helix-hairpin-helix motif	General function prediction only	Undefined
+VNG_0285C	RAYT	COG1943	REP element-mobilizing transposase RayT	Mobilome: prophages, transposons	Undefined
+VNG_0286C	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_0287a	Undefined	COG3269	Predicted RNA-binding protein, contains TRAM domain	General function prediction only	Undefined
+VNG_0291H	GloB	COG0491	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	General function prediction only	Undefined
+VNG_0297H	LigW	COG2159	5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain	Carbohydrate transport and metabolism	Undefined
+VNG_0298H	YadS	COG2860	Uncharacterized membrane protein YeiH	Function unknown	Undefined
+VNG_0300C	Undefined	COG1912	Stereoselective (R,S)-S-adenosylmethionine hydrolase (adenosine-forming)	Coenzyme transport and metabolism	Undefined
+VNG_0301C	NadR	COG1056	Nicotinamide mononucleotide adenylyltransferase	Coenzyme transport and metabolism	NAD biosynthesis
+VNG_0303G	LonB	COG1067	Predicted ATP-dependent protease	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0305G	TrpC	COG0134	Indole-3-glycerol phosphate synthase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_0307G	TrpB	COG0133	Tryptophan synthase beta chain	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_0308G	TrpA	COG0159	Tryptophan synthase alpha chain	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_0309C	FbaB	COG1830	Fructose-bisphosphate aldolase class Ia, DhnA family	Carbohydrate transport and metabolism	Glycolysis
+VNG_0310C	AroB2	COG1465	3-dehydroquinate synthase, class II	Amino acid transport and metabolism	Undefined
+VNG_0314G	AroD	COG0710	3-dehydroquinate dehydratase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_0315G	SUA7	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	Transcription	Undefined
+VNG_0316C	FepB	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_0318G	AglD2	COG0392	Predicted membrane flippase AglD2/YbhN, UPF0104 family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0320H	Undefined	COG3398	Predicted transcriptional regulator, contains two HTH domains	Transcription	Undefined
+VNG_0321G	HflC	COG0330	Regulator of protease activity HflC, stomatin/prohibitin superfamily	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0322H	YbbJ	COG1585	Membrane protein implicated in regulation of membrane protease activity	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0324G	PykF|PykA2	COG0469|COG3848	Pyruvate kinase|Phosphohistidine swiveling domain of PEP-utilizing enzymes	Carbohydrate transport and metabolism|Signal transduction mechanisms	Glycolysis|Undefined
+VNG_0326G	EMAP|MetG	COG0073|COG0143	tRNA-binding EMAP/Myf domain|Methionyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Undefined|Aminoacyl-tRNA synthetases
+VNG_0327G	GadA	COG0076	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	Amino acid transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_0329G	HtpX	COG0501	Zn-dependent protease with chaperone function	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0330G	PpsA	COG0574	Phosphoenolpyruvate synthase/pyruvate phosphate dikinase	Carbohydrate transport and metabolism	Gluconeogenesis
+VNG_0332C	YHI9	COG0384	Predicted epimerase YddE/YHI9, PhzF superfamily	General function prediction only	Undefined
+VNG_0335G	Hpt1	COG2236	Hypoxanthine phosphoribosyltransferase	Coenzyme transport and metabolism	Purine salvage
+VNG_0340C	ScpA	COG1354	Chromatin segregation and condensation protein Rec8/ScpA/Scc1, kleisin family	Replication, recombination and repair	Undefined
+VNG_0342G	Smc	COG1196	Chromosome segregation ATPase Smc	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_0345G	GatB	COG0064	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_0349G	TopA|YrdD	COG0550|COG0551	DNA topoisomerase IA|DNA topoisomerase I, ssDNA-binding Zn-finger and Zn-ribbon domains	Replication, recombination and repair	Undefined
+VNG_0351C	NreA	COG1602	Archaeal DNA repair protein NreA	Replication, recombination and repair	Undefined
+VNG_0361C	GlpG|CUZ1	COG0705|COG3582	Membrane-associated serine protease, rhomboid family|CDC48-associated ubiquitin-like protein CUZ1, contains AN1-type Zn-finger (protection from As/Sb toxicity)	Posttranslational modification, protein turnover, chaperones|Defense mechanisms	Undefined
+VNG_0363G	Nfi	COG1515	Deoxyinosine 3'-endonuclease (endonuclease V)	Replication, recombination and repair	Undefined
+VNG_0364G	YdfG	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	Energy production and conversion	Pyrimidine degradation
+VNG_0365G	ArsA	COG0003	Anion-transporting ATPase, ArsA/GET3 family	Inorganic ion transport and metabolism	Undefined
+VNG_0367H	YesE	COG3631	Ketosteroid isomerase-related protein	General function prediction only	Undefined
+VNG_0368C	PncC	COG1546	Nicotinamide mononucleotide (NMN) deamidase PncC	Coenzyme transport and metabolism	NAD biosynthesis
+VNG_0370H	YciV	COG0613	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	Nucleotide transport and metabolism	Undefined
+VNG_0371G	CaiA	COG1960	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0374G	NusG	COG0250	Transcription termination/antitermination protein NusG	Transcription	Undefined
+VNG_0375G	Sss1	COG2443	Preprotein translocase subunit Sss1	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_0376G	FtsZ	COG0206	Cell division GTPase FtsZ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_0378C	Undefined	COG1650	D-tyrosyl-tRNA(Tyr) deacylase	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0380G	ECM27	COG0530	Ca2+/Na+ antiporter	Inorganic ion transport and metabolism	Undefined
+VNG_0382G	AroE	COG0169	Shikimate 5-dehydrogenase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_0383H	H3TH	COG3743	Predicted 5' DNA nuclease, flap endonuclease-1-like, helix-3-turn-helix (H3TH) domain	Replication, recombination and repair	Undefined
+VNG_0384G	TrpE	COG0147	Anthranilate/para-aminobenzoate synthases component I	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_0386G	PabA	COG0512	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_0387G	IlvE	COG0115	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Amino acid transport and metabolism	Isoleucine, leucine, valine biosynthesis
+VNG_0388C	NirD	COG2146	Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase	Inorganic ion transport and metabolism	Undefined
+VNG_0389C	Undefined	COG3357	Predicted transcriptional regulator, contains HTH and Zn-ribbon domains	Transcription	Undefined
+VNG_0390G	GCD1	COG1208	NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0391C	Dph6	COG2102	Diphthamide synthase (EF-2-diphthine--ammonia ligase)	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0393C	Undefined	COG2237	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_0394C	Undefined	COG1340	Uncharacterized coiled-coil protein, contains DUF342 domain	Function unknown	Undefined
+VNG_0396C	Undefined	COG2090	Uncharacterized conserved protein, DUF371 domain	Function unknown	Undefined
+VNG_0398G	Nth	COG0177	Endonuclease III	Replication, recombination and repair	Undefined
+VNG_0401G	Undefined	COG1782	Predicted metal-dependent RNase, contains metallo-beta-lactamase and KH domains	General function prediction only	Undefined
+VNG_0403G	ProS	COG0442	Prolyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_0405C	WcaG	COG0451	Nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0406C	GldA	COG0371	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	Energy production and conversion	Isoprenoid biosynthesis
+VNG_0409C	DAP2	COG1506	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	Amino acid transport and metabolism	Undefined
+VNG_0410G	RfaB	COG0438	Glycosyltransferase involved in cell wall bisynthesis	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0412G	FolC|FolP	COG0285|COG0294	Folylpolyglutamate synthase/Dihydropteroate synthase|Dihydropteroate synthase	Coenzyme transport and metabolism	Folate biosynthesis
+VNG_0414G	PurH	COG0138	AICAR transformylase/IMP cyclohydrolase PurH	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_0415G	PurB	COG0015	Adenylosuccinate lyase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_0417H	Undefined	COG2129	Predicted phosphoesterase, related to the Icc protein	General function prediction only	Undefined
+VNG_0419C	LabA	COG1432	NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation	General function prediction only	Undefined
+VNG_0421C	ArcTGT	COG1370	tRNA-guanine transglycosylase, archaeosine-15-forming, contains TGT and PUA domains	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0422G	CypX	COG2124	Cytochrome P450	Secondary metabolites biosynthesis, transport and catabolism	Biotin biosynthesis
+VNG_0424C	EGD2	COG1308	Transcription factor homologous to NACalpha-BTF3	Transcription	Undefined
+VNG_0425G	Gcd14	COG2519	tRNA A58 N-methylase Trm61	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_0426G	RPB9	COG1594	DNA-directed RNA polymerase, subunit M/Transcription elongation factor TFIIS	Transcription	RNA polymerase
+VNG_0428G	CaiD	COG1024	Enoyl-CoA hydratase/carnithine racemase	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0431G	MutT	COG0494	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	Defense mechanisms	Undefined
+VNG_0433C	RpsJ	COG0051	Ribosomal protein S10	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_0436G	NhaC	COG1757	Na+/H+ antiporter NhaC/MleN	Energy production and conversion	Undefined
+VNG_0437C	AbgB	COG1473	Metal-dependent amidase/aminoacylase/carboxypeptidase	General function prediction only	Lysine biosynthesis
+VNG_0438G	Fdx	COG0633	Ferredoxin	Energy production and conversion	Undefined
+VNG_0439C	FixC	COG0644	Dehydrogenase (flavoprotein)	Energy production and conversion	Undefined
+VNG_0440C	GloB|PspE	COG0491|COG0607	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II|Rhodanese-related sulfurtransferase	General function prediction only|Inorganic ion transport and metabolism	Undefined|Urea cycle
+VNG_0442G	RspA	COG4948	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	Cell wall/membrane/envelope biogenesis	Non-phosphorylated Entner-Doudoroff pathway
+VNG_0444G	DapA	COG0329	4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase	Amino acid transport and metabolism	Lysine biosynthesis
+VNG_0446G	Tdh	COG1063	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Amino acid transport and metabolism	Non-phosphorylated Entner-Doudoroff pathway
+VNG_0447H	Cof	COG0561	Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases	Coenzyme transport and metabolism	Undefined
+VNG_0448G	PyrE2	COG0856	Orotate phosphoribosyltransferase homolog	Nucleotide transport and metabolism	Undefined
+VNG_0450C	GrxD	COG0278	Glutaredoxin-related protein	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0451G	PhoU	COG0704	Phosphate uptake regulator PhoU	Inorganic ion transport and metabolism	Undefined
+VNG_0452G	PstB	COG1117	ABC-type phosphate transport system, ATPase component	Inorganic ion transport and metabolism	Undefined
+VNG_0453G	PstA	COG0581	ABC-type phosphate transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_0455G	PstC	COG0573	ABC-type phosphate transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_0457G	PstS	COG0226	ABC-type phosphate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_0458G	PhoU	COG0704	Phosphate uptake regulator PhoU	Inorganic ion transport and metabolism	Undefined
+VNG_0459G	CysD	COG0175	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme	Amino acid transport and metabolism	Cysteine biosynthesis
+VNG_0461G	AsnS	COG0017	Aspartyl/asparaginyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_0465G	CcmA	COG1131	ABC-type multidrug transport system, ATPase component	Defense mechanisms	Undefined
+VNG_0467G	ARA1	COG0656	Aldo/keto reductase, related to diketogulonate reductase	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_0468C	FixC	COG0644	Dehydrogenase (flavoprotein)	Energy production and conversion	Undefined
+VNG_0470G	CcmA	COG1131	ABC-type multidrug transport system, ATPase component	Defense mechanisms	Undefined
+VNG_0471C	XRE	COG1476	DNA-binding transcriptional regulator, XRE-family HTH domain	Transcription	Undefined
+VNG_0473G	PorB	COG1013	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit	Energy production and conversion	Pyruvate oxidation
+VNG_0474G	PorA|PorG	COG0674|COG1014	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit|Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	Energy production and conversion	Pyruvate oxidation
+VNG_0475a	MutT	COG0494	8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family	Defense mechanisms	Undefined
+VNG_0475C	Fpr	COG1018	Flavodoxin/ferredoxin--NADP reductase	Energy production and conversion	Undefined
+VNG_0479G	FabG	COG1028	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0481G	Sbm	COG1884	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Lipid transport and metabolism	Undefined
+VNG_0482H	ArgA	COG1246	N-acetylglutamate synthase or related acetyltransferase, GNAT family	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_0483C	LolA	COG2834	Outer membrane lipoprotein-sorting protein	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0484G	Acs	COG0365	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Lipid transport and metabolism	Undefined
+VNG_0486G	RimL	COG1670	Protein N-acetyltransferase, RimJ/RimL family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0487H	RimL	COG1670	Protein N-acetyltransferase, RimJ/RimL family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0489G	DnaJ	COG0484	DnaJ-class molecular chaperone with C-terminal Zn finger domain	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0491G	DnaK	COG0443	Molecular chaperone DnaK (HSP70)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0494G	GrpE	COG0576	Molecular chaperone GrpE (heat shock protein HSP-70)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0500G	Undefined	COG1938	Predicted ATP-dependent carboligase, ATP-grasp superfamily	General function prediction only	Undefined
+VNG_0501G	AraJ	COG2814	Predicted arabinose efflux permease AraJ, MFS family	Carbohydrate transport and metabolism	Undefined
+VNG_0502G	AspB	COG0436	Aspartate/methionine/tyrosine aminotransferase	Amino acid transport and metabolism	Isoleucine, leucine, valine biosynthesis
+VNG_0504G	GTP1	COG0012	Ribosome-binding ATPase YchF, GTP1/OBG family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0507C	Undefined	COG4801	Predicted acyltransferase, contains DUF342 domain	General function prediction only	Undefined
+VNG_0510G	RPT1	COG1222	ATP-dependent 26S proteasome regulatory subunit	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0512G	SbcD	COG0420	DNA repair exonuclease SbcCD nuclease subunit	Replication, recombination and repair	Undefined
+VNG_0514C	SbcC	COG0419	DNA repair exonuclease SbcCD ATPase subunit	Replication, recombination and repair	Undefined
+VNG_0521G	PolB	COG0417	DNA polymerase B elongation subunit	Replication, recombination and repair	Undefined
+VNG_0523G	YdfG	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	Energy production and conversion	Pyrimidine degradation
+VNG_0524G	SufC	COG0396	Fe-S cluster assembly ATPase SufC	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0525C	SufB	COG0719	Fe-S cluster assembly scaffold protein SufB	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0527C	SufB	COG0719	Fe-S cluster assembly scaffold protein SufB	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0530G	MntR	COG1321	Mn-dependent transcriptional regulator MntR, DtxR family	Transcription	Undefined
+VNG_0533H	AIM24	COG2013	AIM24 protein, required for mitochondrial respiration	Energy production and conversion	Undefined
+VNG_0534C	RnaY	COG1418	HD superfamily phosphodieaserase, includes HD domain of RNase Y	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0535C	Gdt1	COG2119	Putative Ca2+/H+ antiporter, TMEM165/GDT1 family	General function prediction only	Undefined
+VNG_0536G	MntR	COG1321	Mn-dependent transcriptional regulator MntR, DtxR family	Transcription	Undefined
+VNG_0537C	Undefined	COG4666	TRAP-type uncharacterized transport system, fused permease components	General function prediction only	Undefined
+VNG_0539C	Undefined	COG4729	Uncharacterized conserved protein, DUF1850 family	Function unknown	Undefined
+VNG_0540G	Imp	COG2358	TRAP-type uncharacterized transport system, periplasmic component	General function prediction only	Undefined
+VNG_0541G	ThrC	COG0498	Threonine synthase	Amino acid transport and metabolism	Threonine biosynthesis
+VNG_0542C	Undefined	COG1233	Phytoene dehydrogenase-related protein	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_0543H	Undefined	COG1407	Metallophosphoesterase superfamily enzyme	General function prediction only	Undefined
+VNG_0546C	Undefined	COG2047	Proteasome assembly chaperone (PAC2) family protein	General function prediction only	Undefined
+VNG_0548C	Nop10	COG2260	rRNA maturation protein Nop10, contains Zn-ribbon domain	Translation, ribosomal structure and biogenesis	16S rRNA modification
+VNG_0549G	SUI2	COG1093	Translation initiation factor 2, alpha subunit (eIF-2alpha)	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_0550G	RPS27A	COG2051	Ribosomal protein S27E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_0551G	RPL42A	COG1631	Ribosomal protein L44E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_0555C	Undefined	COG5427	Predicted membrane glycosyltransferase AF0583, Arch_YYY/DUF2298 family	Function unknown	Undefined
+VNG_0556G	RfbX	COG2244	Membrane protein involved in the export of O-antigen and teichoic acid	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0557H	YajL	COG0693	Protein/nucleotide deglycase, PfpI/YajL/DJ-1 family (repair of methylglyoxal-glycated proteins and nucleic acids)	Defense mechanisms	Undefined
+VNG_0559G	Apt	COG0503	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Nucleotide transport and metabolism	Purine salvage
+VNG_0560C	HyfB	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	Energy production and conversion	Undefined
+VNG_0563G	HyfB	COG0651	Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit	Energy production and conversion	Undefined
+VNG_0565C	MnhC	COG1006	Multisubunit Na+/H+ antiporter, MnhC subunit	Inorganic ion transport and metabolism	Undefined
+VNG_0566C	MnhB	COG2111	Multisubunit Na+/H+ antiporter, MnhB subunit	Inorganic ion transport and metabolism	Undefined
+VNG_0568C	MnhF	COG2212	Multisubunit Na+/H+ antiporter, MnhF subunit	Inorganic ion transport and metabolism	Undefined
+VNG_0570H	MnhG	COG1320	Multisubunit Na+/H+ antiporter, MnhG subunit	Inorganic ion transport and metabolism	Undefined
+VNG_0571C	MnhE	COG1863	Multisubunit Na+/H+ antiporter, MnhE subunit	Inorganic ion transport and metabolism	Undefined
+VNG_0572G	CoaBC	COG0452	Phosphopantothenoylcysteine synthetase/decarboxylase CoaBC	Coenzyme transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_0573C	PetE	COG3794	Plastocyanin	Energy production and conversion	Undefined
+VNG_0574C	Undefined	COG4746	Uncharacterized conserved protein	Function unknown	Undefined
+VNG_0575G	Iap	COG2234	Zn-dependent amino- or carboxypeptidase, M28 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0584H	QcrA/PetC	COG0723	Rieske Fe-S protein	Energy production and conversion	Undefined
+VNG_0586C	PetE	COG3794	Plastocyanin	Energy production and conversion	Undefined
+VNG_0592G	Nth	COG0177	Endonuclease III	Replication, recombination and repair	Undefined
+VNG_0593G	MVD1	COG3407	Mevalonate pyrophosphate decarboxylase	Lipid transport and metabolism	Isoprenoid biosynthesis
+VNG_0595H	GloA	COG0346	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_0598C	RfaB	COG0438	Glycosyltransferase involved in cell wall bisynthesis	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0599C	RPR2	COG2023	Ribonuclease P protein subunit RPR2	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0600C	RfaB	COG0438	Glycosyltransferase involved in cell wall bisynthesis	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0601H	YhbY	COG1534	RNA-binding protein YhbY	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0602C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_0608C	YccU	COG1832	Predicted CoA-binding protein	General function prediction only	Undefined
+VNG_0610G	UbiA	COG0382	4-hydroxybenzoate polyprenyltransferase	Coenzyme transport and metabolism	Ubiquinone biosynthesis
+VNG_0615C	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_0620G	SppA	COG0616	Periplasmic serine protease, ClpP class	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0622H	Undefined	COG3380	Predicted NAD/FAD-dependent oxidoreductase	General function prediction only	Undefined
+VNG_0623G	MmdA	COG4799	Acetyl-CoA carboxylase, carboxyltransferase component	Lipid transport and metabolism	Undefined
+VNG_0626G	MaoC	COG2030	Acyl-CoA dehydratase PaaZ	Lipid transport and metabolism	Undefined
+VNG_0627G	CitE	COG2301	Citrate lyase beta subunit	Carbohydrate transport and metabolism	Undefined
+VNG_0628G	GdhA	COG0334	Glutamate dehydrogenase/leucine dehydrogenase	Amino acid transport and metabolism	Glutamine biosynthesis
+VNG_0629G	AspB	COG0436	Aspartate/methionine/tyrosine aminotransferase	Amino acid transport and metabolism	Isoleucine, leucine, valine biosynthesis
+VNG_0630G	RibE	COG0054	6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain)	Coenzyme transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_0631C	PMT	COG4745	Predicted membrane-bound mannosyltransferase, involved in protein glycosylation	General function prediction only	Undefined
+VNG_0632G	PurK	COG0026	Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_0633G	PurE	COG0041	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_0635G	NuoA	COG0838	NADH:ubiquinone oxidoreductase subunit 3 (chain A)	Energy production and conversion	NADH dehydrogenase
+VNG_0636G	NuoB	COG0377	NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase	Energy production and conversion	NADH dehydrogenase
+VNG_0637G	NuoD|NuoC	COG0649|COG0852	NADH:ubiquinone oxidoreductase 49 kD subunit (chain D)|NADH:ubiquinone oxidoreductase 27 kD subunit (chain C)	Energy production and conversion	NADH dehydrogenase
+VNG_0639G	NuoH	COG1005	NADH:ubiquinone oxidoreductase subunit 1 (chain H)	Energy production and conversion	NADH dehydrogenase
+VNG_0640G	NuoI	COG1143	Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I)	Energy production and conversion	NADH dehydrogenase
+VNG_0643G	NuoK	COG0713	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)	Energy production and conversion	NADH dehydrogenase
+VNG_0646G	NuoL	COG1009	Membrane H+-translocase/NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	Energy production and conversion	NADH dehydrogenase
+VNG_0647G	NuoM	COG1008	NADH:ubiquinone oxidoreductase subunit 4 (chain M)	Energy production and conversion	NADH dehydrogenase
+VNG_0648G	NuoN	COG1007	NADH:ubiquinone oxidoreductase subunit 2 (chain N)	Energy production and conversion	NADH dehydrogenase
+VNG_0650C	NrnA	COG0618	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	Nucleotide transport and metabolism	Undefined
+VNG_0653G	Sbm	COG1884	Methylmalonyl-CoA mutase, N-terminal domain/subunit	Lipid transport and metabolism	Undefined
+VNG_0654C	RimI	COG0456	Ribosomal protein S18 acetylase RimI and related acetyltransferases	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0657G	CyoB	COG0843	Heme/copper-type cytochrome/quinol oxidase, subunit 1	Energy production and conversion	Undefined
+VNG_0662G	CyoC	COG1845	Heme/copper-type cytochrome/quinol oxidase, subunit 3	Energy production and conversion	Undefined
+VNG_0664G	BirA2	COG0340	Biotin-(acetyl-CoA carboxylase) ligase	Coenzyme transport and metabolism	Biotin biosynthesis
+VNG_0665G	CyoA	COG1622	Heme/copper-type cytochrome/quinol oxidase, subunit 2	Energy production and conversion	Undefined
+VNG_0666G	CyoE	COG0109	Polyprenyltransferase (heme O synthase)	Coenzyme transport and metabolism	Undefined
+VNG_0668C	CcmA	COG1131	ABC-type multidrug transport system, ATPase component	Defense mechanisms	Undefined
+VNG_0671H	YozB	COG2322	Predicted membrane metallochaperone YozB (3H, Sco1 fusion), DUF420 family	General function prediction only	Undefined
+VNG_0673G	Sbm	COG2185	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Lipid transport and metabolism	Undefined
+VNG_0674C	ArgK	COG1703	GTPase of the G3E family (not a periplasmic protein kinase)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0675C	MenH	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	Coenzyme transport and metabolism	Menaquinone biosynthesis
+VNG_0676C	Undefined	COG1545	Uncharacterized OB-fold protein, contains Zn-ribbon domain	General function prediction only	Undefined
+VNG_0678G	PaaJ	COG0183	Acetyl-CoA acetyltransferase	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0679G	CaiA	COG1960	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0680G	ERG9	COG1562	Phytoene/squalene synthetase	Lipid transport and metabolism	Undefined
+VNG_0681G	FadB	COG1250	3-hydroxyacyl-CoA dehydrogenase	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0683C	FbaB	COG1830	Fructose-bisphosphate aldolase class Ia, DhnA family	Carbohydrate transport and metabolism	Glycolysis
+VNG_0684G	Fbp	COG0158	Fructose-1,6-bisphosphatase	Carbohydrate transport and metabolism	Gluconeogenesis
+VNG_0686C	SRAP	COG2135	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	Replication, recombination and repair	Undefined
+VNG_0688H	Undefined	COG4742	Predicted transcriptional regulator, contains HTH domain	Transcription	Undefined
+VNG_0689G	CcmA	COG1131	ABC-type multidrug transport system, ATPase component	Defense mechanisms	Undefined
+VNG_0692C	NatB	COG1668	ABC-type Na+ efflux pump, permease component NatB	Energy production and conversion	Undefined
+VNG_0694G	Undefined	COG1833	Uri superfamily endonuclease	General function prediction only	Undefined
+VNG_0698H	RAD55	COG0467	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	Signal transduction mechanisms	Undefined
+VNG_0700G	ZntA	COG2217	Cation-transporting P-type ATPase	Inorganic ion transport and metabolism	Undefined
+VNG_0702H	CopZ	COG2608	Copper chaperone CopZ	Inorganic ion transport and metabolism	Undefined
+VNG_0704C	HxlR	COG1733	DNA-binding transcriptional regulator, HxlR family	Transcription	Undefined
+VNG_0705C	Undefined	COG3046	Uncharacterized conserved protein related to deoxyribodipyrimidine photolyase	General function prediction only	Undefined
+VNG_0707C	Udg4	COG1573	Uracil-DNA glycosylase	Replication, recombination and repair	Undefined
+VNG_0709C	GloB	COG0491	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	General function prediction only	Undefined
+VNG_0713C	TrmR	COG4122	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_0715G	ThiC	COG0422	4-amino-2-methyl-5-hydroxymethylpyrimidine (HMP) synthase ThiC	Coenzyme transport and metabolism	Thiamine biosynthesis
+VNG_0718C	Cof	COG0561	Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases	Coenzyme transport and metabolism	Undefined
+VNG_0719G	NagD	COG0647	Ribonucleotide monophosphatase NagD, HAD superfamily	Nucleotide transport and metabolism	Undefined
+VNG_0720G	NorM	COG0534	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	Defense mechanisms	Undefined
+VNG_0723G	PepP	COG0006	Xaa-Pro aminopeptidase	Amino acid transport and metabolism	Undefined
+VNG_0726C	AcrR	COG1309	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	Transcription	Undefined
+VNG_0727C	NorM	COG0534	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	Defense mechanisms	Undefined
+VNG_0730C	PanE	COG1893	Ketopantoate reductase	Coenzyme transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_0732G	RCL1	COG0430	RNA 3'-terminal phosphate cyclase	RNA processing and modification	Undefined
+VNG_0734G	SUA7	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	Transcription	Undefined
+VNG_0740C	Undefined	COG1878	Kynurenine formamidase	Amino acid transport and metabolism	Undefined
+VNG_0742H	DICT	COG4250	DICT sensory domain found in diguanylate cyclases and two-component systems	Signal transduction mechanisms	Undefined
+VNG_0743H	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_0745G	SpoVR	COG2719	Stage V sporulation protein SpoVR/YcgB, involved in spore cortex formation (function unknown)	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_0746C	YeaH	COG2718	Uncharacterized conserved protein YeaH/YhbH, required for sporulation, DUF444 family	General function prediction only	Undefined
+VNG_0748G	PrkA	COG2766	Predicted Ser/Thr protein kinase	Signal transduction mechanisms	Undefined
+VNG_0749G	PrkA	COG2766	Predicted Ser/Thr protein kinase	Signal transduction mechanisms	Undefined
+VNG_0750C	MsrC	COG1956	GAF domain-containing protein, putative methionine-R-sulfoxide reductase	Defense mechanisms	Undefined
+VNG_0751C	PadR	COG1695	DNA-binding transcriptional regulator, PadR family	Transcription	Undefined
+VNG_0752G	WcaG	COG0451	Nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0753G	PitA	COG0306	Phosphate/sulfate permease	Inorganic ion transport and metabolism	Undefined
+VNG_0755C	TRM56	COG1303	tRNA C56-2-O'-methylase, SpoU family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0757G	TFA1	COG1675	Transcription initiation factor IIE, alpha subunit	Transcription	Undefined
+VNG_0758C	Undefined	COG4044	Uncharacterized conserved protein, DUF2110 domain	Function unknown	Undefined
+VNG_0761G	CinA	COG1058	ADP-ribose pyrophosphatase domain of DNA damage- and competence-inducible protein CinA	Replication, recombination and repair	Undefined
+VNG_0764C	Undefined	COG3199	NAD kinase	Nucleotide transport and metabolism	Undefined
+VNG_0766G	PhoU	COG0704	Phosphate uptake regulator PhoU	Inorganic ion transport and metabolism	Undefined
+VNG_0769H	CoxG	COG3427	Carbon monoxide dehydrogenase subunit CoxG	Energy production and conversion	Undefined
+VNG_0771G	AdhE	COG1012	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	Lipid transport and metabolism	Proline degradation
+VNG_0775G	CaiA	COG1960	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0777G	TagD	COG0615	Glycerol-3-phosphate cytidylyltransferase, cytidylyltransferase family	Cell wall/membrane/envelope biogenesis	Riboflavin/FAD biosynthesis
+VNG_0778C	Rri1	COG1310	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0784G	PssA	COG1183	Phosphatidylserine synthase	Lipid transport and metabolism	Undefined
+VNG_0786G	PetE	COG3794	Plastocyanin	Energy production and conversion	Undefined
+VNG_0787G	RPS3A	COG1890	Ribosomal protein S3AE	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_0790G	RpsO	COG0184	Ribosomal protein S15P/S13E	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_0794G	Med	COG1744	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Signal transduction mechanisms	Undefined
+VNG_0795G	PetE	COG3794	Plastocyanin	Energy production and conversion	Undefined
+VNG_0796G	MetC	COG0626	Cystathionine beta-lyase/cystathionine gamma-synthase	Amino acid transport and metabolism	Methionine biosynthesis
+VNG_0798H	EfeB	COG2837	Periplasmic deferrochelatase/peroxidase EfeB	Inorganic ion transport and metabolism	Undefined
+VNG_0799C	LolD	COG1136	ABC-type lipoprotein export system, ATPase component	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0804C	Undefined	COG3294	Metal-dependent phosphatase/phosphodiesterase, HD supefamily	General function prediction only	Undefined
+VNG_0808G	AdhE	COG1012	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	Lipid transport and metabolism	Proline degradation
+VNG_0813G	PotD	COG0687	Spermidine/putrescine-binding periplasmic protein	Amino acid transport and metabolism	Undefined
+VNG_0815G	CurA	COG2130	NADPH-dependent curcumin reductase CurA	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_0816G	ChiA|Undefined	COG3325|COG3979	Chitinase, GH18 family|Chitodextrinase	Carbohydrate transport and metabolism	Undefined
+VNG_0818C	ChiA|Undefined	COG3325|COG3979	Chitinase, GH18 family|Chitodextrinase	Carbohydrate transport and metabolism	Undefined
+VNG_0819C	Undefined	COG3979	Chitodextrinase	Carbohydrate transport and metabolism	Undefined
+VNG_0822C	TadC	COG2064	Flp pilus assembly protein TadC	Extracellular structures	Undefined
+VNG_0823G	VirB11	COG0630	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	Cell motility	Undefined
+VNG_0824G	MobA	COG0746	Molybdopterin-guanine dinucleotide biosynthesis protein A	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_0826C	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_0829G	BisC	COG0243	Anaerobic selenocysteine-containing dehydrogenase	Energy production and conversion	Undefined
+VNG_0830G	HybA	COG0437	Fe-S-cluster-containing dehydrogenase component (DMSO reductase)	Energy production and conversion	Undefined
+VNG_0831G	HybB	COG5557	Ni/Fe-hydrogenase 2 integral membrane subunit HybB	Energy production and conversion	Undefined
+VNG_0832C	TorD	COG3381	Cytoplasmic chaperone TorD involved in molybdoenzyme TorA maturation	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0834C	YidC	COG1422	Archaeal YidC/Oxa1-related membrane protein, DUF106 family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_0835G	MntR	COG1321	Mn-dependent transcriptional regulator MntR, DtxR family	Transcription	Undefined
+VNG_0838G	XerD	COG4974	Site-specific recombinase XerD	Replication, recombination and repair	Undefined
+VNG_0841G	CynT	COG0288	Carbonic anhydrase	Inorganic ion transport and metabolism	Undefined
+VNG_0851C	UlaG	COG2220	L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily	Carbohydrate transport and metabolism	Undefined
+VNG_0852C	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_0853C	YlbF	COG3679	Cell fate regulator YlbF, YheA/YmcA/DUF963 family (controls sporulation, competence, biofilm development)	Signal transduction mechanisms	Undefined
+VNG_0854C	DPH2	COG1736	Diphthamide synthase subunit DPH2	Translation, ribosomal structure and biogenesis	Undefined
+VNG_0857C	Undefined	COG2263	Predicted RNA methylase	General function prediction only	Undefined
+VNG_0858C	GlpG	COG0705	Membrane-associated serine protease, rhomboid family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0860G	RPB11	COG1761	DNA-directed RNA polymerase, subunit L/RPAC2	Transcription	RNA polymerase
+VNG_0862G	HisF	COG0107	Imidazole glycerol phosphate synthase subunit HisF	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_0864G	PurL1	COG0046	Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_0865C	YciV	COG0613	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	Nucleotide transport and metabolism	Undefined
+VNG_0868H	YjhB	COG1051	ADP-ribose pyrophosphatase YjhB, NUDIX family	Nucleotide transport and metabolism	Undefined
+VNG_0869G	SUA7	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	Transcription	Undefined
+VNG_0870G	GatC	COG0721	Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_0873G	YciA	COG1607	Acyl-CoA hydrolase	Lipid transport and metabolism	Undefined
+VNG_0874G	Undefined	COG1916	Pheromone shutdown protein TraB, contains GTxH motif (function unknown)	Function unknown	Undefined
+VNG_0876G	PurM	COG0150	Phosphoribosylaminoimidazole (AIR) synthetase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_0878G	AF2118	COG3620	Predicted transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair)	Transcription	Undefined
+VNG_0879C	Undefined	COG1885	Uncharacterized conserved protein, UPF0212 family	Function unknown	Undefined
+VNG_0880G	PRE1	COG0638	20S proteasome, alpha and beta subunits	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_0881G	CDC9	COG1793	ATP-dependent DNA ligase	Replication, recombination and repair	Undefined
+VNG_0882G	NagD	COG0647	Ribonucleotide monophosphatase NagD, HAD superfamily	Nucleotide transport and metabolism	Undefined
+VNG_0883H	UlaG	COG2220	L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily	Carbohydrate transport and metabolism	Undefined
+VNG_0884G	Spo11	COG1697	DNA topoisomerase VI, subunit A	Replication, recombination and repair	Undefined
+VNG_0885G	Undefined	COG1389	DNA topoisomerase VI, subunit B	Replication, recombination and repair	Undefined
+VNG_0887G	GyrB	COG0187	DNA gyrase/topoisomerase IV, subunit B	Replication, recombination and repair	Undefined
+VNG_0889G	GyrA	COG0188	DNA gyrase/topoisomerase IV, subunit A	Replication, recombination and repair	Undefined
+VNG_0891G	Ndh	COG1252	NADH dehydrogenase, FAD-containing subunit	Energy production and conversion	Undefined
+VNG_0892a	GrpB	COG2320	GrpB domain, predicted nucleotidyltransferase, UPF0157 family	General function prediction only	Undefined
+VNG_0893G	Udp	COG2820	Uridine phosphorylase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_0896G	Cdd	COG0295	Cytidine deaminase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_0897G	NupQ	COG1079	ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ	Nucleotide transport and metabolism	Undefined
+VNG_0898G	NupP	COG4603	ABC-type guanosine uptake system NupNOPQ, permease component NupP	Nucleotide transport and metabolism	Undefined
+VNG_0901G	NupO	COG3845	ABC-type guanosine uptake system NupNOPQ, ATPase component NupO	Nucleotide transport and metabolism	Undefined
+VNG_0903C	Med	COG1744	Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN	Signal transduction mechanisms	Undefined
+VNG_0905G	ManB	COG1109	Phosphomannomutase	Carbohydrate transport and metabolism	Undefined
+VNG_0908G	PutP	COG0591	Na+/proline symporter	Amino acid transport and metabolism	Undefined
+VNG_0915G	Bna5	COG3844	Kynureninase	Amino acid transport and metabolism	Undefined
+VNG_0918H	Undefined|InsA	COG3676|COG3677	Transposase and inactivated derivatives|Transposase InsA	Mobilome: prophages, transposons	Undefined
+VNG_0921G	PotA	COG3842	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	Amino acid transport and metabolism	Undefined
+VNG_0923G	FbpB	COG1178	ABC-type Fe3+ transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_0924G	AfuA	COG1840	ABC-type Fe3+ transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_0930G	SsuD	COG2141	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	Coenzyme transport and metabolism	Pyrimidine degradation
+VNG_0931G	PaaJ	COG0183	Acetyl-CoA acetyltransferase	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_0932C	Undefined	COG1545	Uncharacterized OB-fold protein, contains Zn-ribbon domain	General function prediction only	Undefined
+VNG_0933G	FadH	COG1902	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family	Energy production and conversion	Undefined
+VNG_0935G	NfnB	COG0778	Nitroreductase	Energy production and conversion	Pyrimidine degradation
+VNG_0936C	Nit2	COG0388	Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate	Energy production and conversion	Undefined
+VNG_0937G	AdhE	COG1012	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	Lipid transport and metabolism	Proline degradation
+VNG_0938G	ZupT	COG0428	Zinc transporter ZupT	Inorganic ion transport and metabolism	Undefined
+VNG_0940G	PatZN	COG1042	Acyl-CoA synthetase (NDP forming)	Energy production and conversion	Undefined
+VNG_0941C	PtaN	COG0857	BioD-like N-terminal domain of phosphotransacetylase	General function prediction only	Undefined
+VNG_0942G	CheW	COG0835	Chemotaxis signal transduction protein CheW	Signal transduction mechanisms	Undefined
+VNG_0946G	FlhG	COG0455	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_0947G	ArlJ	COG1955	Archaellum biogenesis protein ArlJ/FlaJ, TadC family	Cell motility	Undefined
+VNG_0949G	VirB11	COG0630	Type IV secretory pathway ATPase VirB11/Archaellum biosynthesis ATPase ArlI/FlaI	Cell motility	Undefined
+VNG_0950a	FlaG	COG3354	Archaellum component FlaG, FlaF/FlaG flagellin family	Cell motility	Undefined
+VNG_0950G	FlaH	COG2874	Archaellum biogenesis ATPase ArlH/FlaH	Cell motility	Undefined
+VNG_0953C	FlaF	COG3353	Archaellum component FlaF, FlaF/FlaG flagellin family	Cell motility	Undefined
+VNG_0954C	FlaC	COG3352	Archaellum component ArlC/FlaC	Cell motility	Undefined
+VNG_0955G	FlaD	COG3351	Archaellum component ArlD/FlaD/FlaE	Cell motility	Undefined
+VNG_0960G	FlaB	COG1681	Archaellin (archaeal flagellin)	Cell motility	Undefined
+VNG_0961G	FlaB	COG1681	Archaellin (archaeal flagellin)	Cell motility	Undefined
+VNG_0962G	FlaB	COG1681	Archaellin (archaeal flagellin)	Cell motility	Undefined
+VNG_0964C	CheF	COG2469	Archaeal chemotaxis protein CheF	Signal transduction mechanisms	Undefined
+VNG_0965C	CheF	COG2469	Archaeal chemotaxis protein CheF	Signal transduction mechanisms	Undefined
+VNG_0966G	CheR	COG1352	Methylase of chemotaxis methyl-accepting proteins	Signal transduction mechanisms	Undefined
+VNG_0967G	CheD	COG1871	Chemotaxis receptor (MCP) glutamine deamidase CheD	Signal transduction mechanisms	Undefined
+VNG_0969H	CheC	COG1776	Phosphoaspartate phosphatase CheC, specific for CheY-P	Signal transduction mechanisms	Undefined
+VNG_0970G	CheC	COG1776	Phosphoaspartate phosphatase CheC, specific for CheY-P	Signal transduction mechanisms	Undefined
+VNG_0971G	CheA	COG0643	Chemotaxis protein histidine kinase CheA	Signal transduction mechanisms	Undefined
+VNG_0973G	CheB	COG2201	Chemotaxis response regulator CheB, contains REC and protein-glutamate methylesterase domains	Signal transduction mechanisms	Undefined
+VNG_0976G	CheW	COG0835	Chemotaxis signal transduction protein CheW	Signal transduction mechanisms	Undefined
+VNG_0982C	YlmC	COG1873	Sporulation protein YlmC, YlmC/YmxH family, contains PRC-barrel domain	General function prediction only	Undefined
+VNG_0983C	NrnA	COG0618	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	Nucleotide transport and metabolism	Undefined
+VNG_0988H	Undefined	COG3815	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_0989C	XerD	COG4974	Site-specific recombinase XerD	Replication, recombination and repair	Undefined
+VNG_0996G	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_0997G	Acs	COG0365	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	Lipid transport and metabolism	Undefined
+VNG_0998G	PdxI	COG0667	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	Coenzyme transport and metabolism	Undefined
+VNG_1000H	Undefined	COG3205	Uncharacterized membrane protein, DUF2061 family	Function unknown	Undefined
+VNG_1001G	GuaB	COG0516	IMP dehydrogenase/GMP reductase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1008G	FlaB	COG1681	Archaellin (archaeal flagellin)	Cell motility	Undefined
+VNG_1009G	FlaB	COG1681	Archaellin (archaeal flagellin)	Cell motility	Undefined
+VNG_1011C	Gch31	COG2429	Archaeal GTP cyclohydrolase III	Nucleotide transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_1012H	GrxC	COG0695	Glutaredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1014G	DinP	COG0389	Nucleotidyltransferase/DNA polymerase DinP involved in DNA repair	Replication, recombination and repair	Undefined
+VNG_1018G	ARA1|MviM	COG0656|COG0673	Aldo/keto reductase, related to diketogulonate reductase|Predicted dehydrogenase	Secondary metabolites biosynthesis, transport and catabolism|General function prediction only	Undefined
+VNG_1020C	PgsA	COG0558	Phosphatidylglycerophosphate synthase	Lipid transport and metabolism	Phospholipid biosynthesis
+VNG_1021C	Gch31	COG2429	Archaeal GTP cyclohydrolase III	Nucleotide transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_1023C	Tdh	COG1063	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Amino acid transport and metabolism	Non-phosphorylated Entner-Doudoroff pathway
+VNG_1024C	QueD	COG0720	6-pyruvoyl-tetrahydropterin synthase	Coenzyme transport and metabolism	tRNA modification
+VNG_1027G	TpiA	COG0149	Triosephosphate isomerase	Carbohydrate transport and metabolism	Glycolysis
+VNG_1029C	aMBF1	COG1813	Archaeal ribosome-binding protein aMBF1, putative translation factor, contains Zn-ribbon and HTH domains	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1030G	PgsA	COG0558	Phosphatidylglycerophosphate synthase	Lipid transport and metabolism	Phospholipid biosynthesis
+VNG_1031C	Fap7	COG1936	Broad-specificity NMP kinase	Nucleotide transport and metabolism	Undefined
+VNG_1033G	HisC	COG0079	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	Amino acid transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1035C	BetA	COG2303	Choline dehydrogenase or related flavoprotein	Lipid transport and metabolism	Non-phosphorylated Entner-Doudoroff pathway
+VNG_1037G	YcgM	COG0179	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1038C	UlaG	COG2220	L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily	Carbohydrate transport and metabolism	Undefined
+VNG_1041a	OsmC	COG1764	Organic hydroperoxide reductase OsmC/OhrA	Defense mechanisms	Undefined
+VNG_1048G	Ugd	COG1004	UDP-glucose 6-dehydrogenase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1050H	Undefined	COG3269	Predicted RNA-binding protein, contains TRAM domain	General function prediction only	Undefined
+VNG_1054G	RfbX	COG2244	Membrane protein involved in the export of O-antigen and teichoic acid	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1055G	RmlA1	COG1209	dTDP-glucose pyrophosphorylase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1057C	AslA	COG3119	Arylsulfatase A or related enzyme, AlkP superfamily	Inorganic ion transport and metabolism	Undefined
+VNG_1067G	WcaA	COG0463	Glycosyltransferase involved in cell wall bisynthesis	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1068G	Stt3	COG1287	Asparagine N-glycosylation enzyme, membrane subunit Stt3	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1069C	Undefined	COG2035	Uncharacterized membrane protein, DUF368 family	Function unknown	Undefined
+VNG_1073G	MenE/FadK	COG0318	O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)	Lipid transport and metabolism	Menaquinone biosynthesis
+VNG_1074G	RspA	COG4948	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	Cell wall/membrane/envelope biogenesis	Non-phosphorylated Entner-Doudoroff pathway
+VNG_1075G	MenA	COG1575	1,4-dihydroxy-2-naphthoate polyprenyltransferase	Coenzyme transport and metabolism	Menaquinone biosynthesis
+VNG_1077G	BetT	COG1292	Choline-glycine betaine transporter	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1079G	MenB	COG0447	1,4-Dihydroxy-2-naphthoyl-CoA synthase	Coenzyme transport and metabolism	Menaquinone biosynthesis
+VNG_1081G	MenD	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	Coenzyme transport and metabolism	Menaquinone biosynthesis
+VNG_1083G	MenF	COG1169	Isochorismate synthase EntC	Coenzyme transport and metabolism	Menaquinone biosynthesis
+VNG_1084G	MsrP	COG2041	Molybdopterin-dependent catalytic subunit of periplasmic DMSO/TMAO and protein-methionine-sulfoxide reductases	Energy production and conversion	Undefined
+VNG_1086C	Undefined	COG1745	Uncharacterized metal-binding protein MJ1132, UPF0058 family	Function unknown	Undefined
+VNG_1088C	Undefined	COG3388	Predicted transcriptional regulator	Transcription	Undefined
+VNG_1089G	PurA	COG0104	Adenylosuccinate synthase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1090H	Trm112	COG2835	RNA methyltransferase activator Trm112/YbaR	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1093C	SirB	COG2138	Sirohydrochlorin ferrochelatase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1094H	LolA	COG2834	Outer membrane lipoprotein-sorting protein	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1097G	CysS	COG0215	Cysteinyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_1099C	YcgG	COG3403	Uncharacterized conserved protein YcgG, contains conserved FPC and CPF motifs	Function unknown	Undefined
+VNG_1100C	PncA	COG1335	Nicotinamidase-related amidase	Coenzyme transport and metabolism	Pyrimidine degradation
+VNG_1101C	Undefined	COG1784	TctA family transporter	General function prediction only	Undefined
+VNG_1104G	RplJ	COG0244	Ribosomal protein L10	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1105G	RplA	COG0081	Ribosomal protein L1	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1108G	RplK	COG0080	Ribosomal protein L11	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1111G	Rbg1	COG1163	Ribosome-interacting GTPase RBG1	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1114G	GloA	COG0346	Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1115H	TrmO	COG1720	tRNA (Thr-GGU) A37 N6-methylase	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1117C	Trm5	COG2520	tRNA G37 N-methylase Trm5	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1118G	DPH5	COG1798	Diphthamide biosynthesis methyltransferase	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1120H	SRPBCC	COG4276	Ligand-binding SRPBCC domain	General function prediction only	Undefined
+VNG_1121G	AspB	COG0436	Aspartate/methionine/tyrosine aminotransferase	Amino acid transport and metabolism	Isoleucine, leucine, valine biosynthesis
+VNG_1123G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1125G	PorB	COG1013	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit	Energy production and conversion	Pyruvate oxidation
+VNG_1128G	PorA|PorG	COG0674|COG1014	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit|Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit	Energy production and conversion	Pyruvate oxidation
+VNG_1131G	Mrp	COG0489	Fe-S cluster carrier ATPase, Mrp/ApbC/NBP35 family	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_1132G	RpsM	COG0099	Ribosomal protein S13	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1133G	RpsD	COG0522	Ribosomal protein S4 or related protein	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1134G	RpsK	COG0100	Ribosomal protein S11	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1136G	RpoA	COG0202	DNA-directed RNA polymerase, alpha subunit/40 kD subunit	Transcription	RNA polymerase
+VNG_1137G	RPL18A	COG1727	Ribosomal protein L18E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1138G	RplM	COG0102	Ribosomal protein L13	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1139G	RpsI	COG0103	Ribosomal protein S9	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1140G	RPB10	COG1644	DNA-directed RNA polymerase, subunit N (RpoN/RPB10)	Transcription	Undefined
+VNG_1142G	Eno	COG0148	Enolase	Carbohydrate transport and metabolism	Glycolysis
+VNG_1143G	RpsB	COG0052	Ribosomal protein S2	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1145G	ERG12	COG1577	Mevalonate kinase	Lipid transport and metabolism	Isoprenoid biosynthesis
+VNG_1148G	Undefined	COG1608	Isopentenyl phosphate kinase	Lipid transport and metabolism	Undefined
+VNG_1150G	IspA	COG0142	Geranylgeranyl pyrophosphate synthase	Coenzyme transport and metabolism	Isoprenoid biosynthesis
+VNG_1153G	GlnS	COG0008	Glutamyl- or glutaminyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Heme biosynthesis
+VNG_1156G	TmcA	COG1444	tRNA(Met) C34 N-acetyltransferase TmcA	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1157G	Rpl7Ae	COG1358	Ribosomal protein L7Ae or related RNA K-turn-binding protein	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1158G	RPS28A	COG2053	Ribosomal protein S28E/S33	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1160G	Ndk	COG0105	Nucleoside diphosphate kinase	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_1162H	MetE	COG0620	Methionine synthase II (cobalamin-independent)	Amino acid transport and metabolism	Methionine biosynthesis
+VNG_1164C	MscS	COG0668	Small-conductance mechanosensitive channel	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1165G	RsmA	COG0030	16S rRNA A1518 and A1519 N6-dimethyltransferase RsmA/KsgA/DIM1 (may also have DNA glycosylase/AP lyase activity)	Translation, ribosomal structure and biogenesis	16S rRNA modification
+VNG_1168C	Undefined	COG1491	Predicted nucleic acid-binding OB-fold protein	General function prediction only	Undefined
+VNG_1169C	RpoF	COG1460	DNA-directed RNA polymerase, subunit F	Transcription	RNA polymerase
+VNG_1170G	RPL21A	COG2139	Ribosomal protein L21E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1172G	MetC	COG0626	Cystathionine beta-lyase/cystathionine gamma-synthase	Amino acid transport and metabolism	Methionine biosynthesis
+VNG_1173a	Undefined	COG2888	Predicted RNA-binding protein involved in translation, contains  Zn-ribbon domain, DUF1610 family	General function prediction only	Undefined
+VNG_1173G	EFB1	COG2092	Translation elongation factor EF-1beta	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_1174G	SIK1	COG1498	Box C/D ribonucleoprotein Nop56/Prp31/SIK1 subunit	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1175G	GAF	COG2203	GAF domain	Signal transduction mechanisms	Undefined
+VNG_1176G	NOP1	COG1889	Fibrillarin-like rRNA 2'-O-methylase NOP1	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1179C	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1180G	MsrA	COG0225	Peptide methionine sulfoxide reductase MsrA	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1181G	FlaB	COG1681	Archaellin (archaeal flagellin)	Cell motility	Undefined
+VNG_1182H	NimA	COG3467	Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily	Defense mechanisms	Undefined
+VNG_1184G	SkfB	COG0535	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_1185G	SkfB	COG0535	Radical SAM superfamily maturase, SkfB/NifB/PqqE family	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_1188G	PetE	COG3794	Plastocyanin	Energy production and conversion	Undefined
+VNG_1190G	SodA	COG0605	Superoxide dismutase	Inorganic ion transport and metabolism	Undefined
+VNG_1191G	CaiA	COG1960	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_1193C	BaeS	COG0642	Signal transduction histidine kinase	Signal transduction mechanisms	Undefined
+VNG_1196H	Undefined	COG4997	Predicted house-cleaning noncanonical NTP pyrophosphatase, all-alpha NTP-PPase (MazG) superfamily	General function prediction only	Undefined
+VNG_1197G	Bcp	COG1225	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1198C	FixC	COG0644	Dehydrogenase (flavoprotein)	Energy production and conversion	Undefined
+VNG_1201G	AraD	COG0235	5-methylthioribulose/5-deoxyribulose/Fuculose 1-phosphate aldolase (methionine salvage, sugar degradation)	Amino acid transport and metabolism	Urea cycle
+VNG_1202C	YigB	COG1011	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	Coenzyme transport and metabolism	Undefined
+VNG_1204G	GdhA	COG0334	Glutamate dehydrogenase/leucine dehydrogenase	Amino acid transport and metabolism	Glutamine biosynthesis
+VNG_1205C	SsnA	COG0402	Cytosine/adenosine deaminase or related metal-dependent hydrolase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_1207C	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_1208G	HutU	COG2987	Urocanate hydratase	Amino acid transport and metabolism	Undefined
+VNG_1209G	SpeB	COG0010	Arginase/agmatinase family enzyme	Amino acid transport and metabolism	Urea cycle
+VNG_1211G	HutI	COG1228	Imidazolonepropionase or related amidohydrolase	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1212G	HutH	COG2986	Histidine ammonia-lyase	Amino acid transport and metabolism	Undefined
+VNG_1213C	YprB	COG3359	Uncharacterized conserved protein YprB, contains RNaseH-like and TPR domains	General function prediction only	Undefined
+VNG_1215G	RimI	COG0456	Ribosomal protein S18 acetylase RimI and related acetyltransferases	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1216G	Pgk	COG0126	3-phosphoglycerate kinase	Carbohydrate transport and metabolism	Glycolysis
+VNG_1218C	CBS	COG0517	CBS domain	Signal transduction mechanisms	Undefined
+VNG_1219G	Udk	COG0572	Uridine kinase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_1224G	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_1228C	Udg4	COG1573	Uracil-DNA glycosylase	Replication, recombination and repair	Undefined
+VNG_1230G	AroC	COG0082	Chorismate synthase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1232G	AroA	COG0128	5-enolpyruvylshikimate-3-phosphate synthase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1233G	PepP	COG0006	Xaa-Pro aminopeptidase	Amino acid transport and metabolism	Undefined
+VNG_1235C	TyrA	COG0287	Prephenate dehydrogenase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1237C	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1240G	PotE	COG0531	Serine transporter YbeC, amino acid:H+ symporter family	Amino acid transport and metabolism	Undefined
+VNG_1241G	SurE	COG0496	Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE	Replication, recombination and repair	Undefined
+VNG_1244C	PheA	COG1605	Chorismate mutase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1245C	AroK2	COG1685	Archaeal shikimate kinase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1247G	Undefined	COG4674	ABC-type uncharacterized transport system, ATPase component	General function prediction only	Undefined
+VNG_1251G	Lhr	COG1201	Lhr-like helicase	Replication, recombination and repair	Undefined
+VNG_1252G	Undefined	COG1407	Metallophosphoesterase superfamily enzyme	General function prediction only	Undefined
+VNG_1253C	Undefined	COG3390	Replication protein A (RPA) family protein	Replication, recombination and repair	Undefined
+VNG_1255C	RFA1	COG1599	ssDNA-binding replication factor A, large subunit	Replication, recombination and repair	Undefined
+VNG_1256G	RibD	COG1985	Pyrimidine reductase, riboflavin biosynthesis	Coenzyme transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_1259G	TrxB	COG0492	Thioredoxin reductase	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1260C	Undefined	COG1849	Uncharacterized conserved protein	Function unknown	Undefined
+VNG_1262G	GCD7	COG1601	Translation initiation factor 2, beta subunit (eIF-2beta)/eIF-5 N-terminal domain	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_1263C	Undefined	COG1745	Uncharacterized metal-binding protein MJ1132, UPF0058 family	Function unknown	Undefined
+VNG_1264C	Undefined	COG1885	Uncharacterized conserved protein, UPF0212 family	Function unknown	Undefined
+VNG_1266G	AlkA	COG0122	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	Replication, recombination and repair	Undefined
+VNG_1272C	Nnr1|Nnr2	COG0062|COG0063	NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate epimerase domain|NAD(P)H-hydrate repair enzyme Nnr, NAD(P)H-hydrate dehydratase domain	Nucleotide transport and metabolism	Undefined
+VNG_1273G	MoaC	COG0315	Molybdenum cofactor biosynthesis enzyme MoaC	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_1275G	HflX	COG2262	50S ribosomal subunit-associated GTPase HflX	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1276C	Sdo1	COG1500	Ribosome maturation protein Sdo1	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1279H	POP5	COG1369	RNase P/RNase MRP subunit POP5	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1281H	RPP1	COG1603	RNase P/RNase MRP subunit p30	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1282G	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_1284G	TrkG	COG0168	Trk-type K+ transport system, membrane component	Inorganic ion transport and metabolism	Undefined
+VNG_1285G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1287C	Undefined	COG1325	Exosome subunit, RNA binding protein with dsRBD fold	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_1294G	SlpA	COG1047	Peptidyl-prolyl cis-trans isomerase, FKBP type	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1296C	CyaB	COG1437	Adenylate cyclase class IV, CYTH domain (includes archaeal enzymes of unknown function)	Signal transduction mechanisms	Undefined
+VNG_1297C	MetK2	COG1812	Archaeal S-adenosylmethionine synthetase	Coenzyme transport and metabolism	Methionine biosynthesis
+VNG_1299C	ThiI	COG0301	Adenylyl- and sulfurtransferase ThiI (thiamine and tRNA 4-thiouridine biosynthesis)	Coenzyme transport and metabolism	Thiamine biosynthesis
+VNG_1301G	CysK	COG0031	Cysteine synthase	Amino acid transport and metabolism	Cysteine biosynthesis
+VNG_1302H	TrxA	COG0526	Thiol-disulfide isomerase or thioredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1303C	YyaL	COG1331	Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains	General function prediction only	Undefined
+VNG_1305G	PurD	COG0151	Phosphoribosylamine-glycine ligase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1306G	SdhA	COG1053	Succinate dehydrogenase/fumarate reductase, flavoprotein subunit	Energy production and conversion	TCA cycle
+VNG_1308G	SdhB/FrdB	COG0479	Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit	Energy production and conversion	TCA cycle
+VNG_1309G	SdhD	COG2142	Succinate dehydrogenase, hydrophobic anchor subunit	Energy production and conversion	Undefined
+VNG_1313G	CaiD|FadB	COG1024|COG1250	Enoyl-CoA hydratase/carnithine racemase|3-hydroxyacyl-CoA dehydrogenase	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_1324C	GtrA	COG2246	Putative flippase GtrA (transmembrane translocase of bactoprenol-linked glucose)	Lipid transport and metabolism	Undefined
+VNG_1325C	ThyX	COG1351	Thymidylate synthase ThyX, FAD-dependent family	Nucleotide transport and metabolism	Thymidylate biosynthesis
+VNG_1327G	GloB	COG0491	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	General function prediction only	Undefined
+VNG_1332G	SodA	COG0605	Superoxide dismutase	Inorganic ion transport and metabolism	Undefined
+VNG_1335G	PhrB	COG0415	Deoxyribodipyrimidine photolyase	Replication, recombination and repair	Undefined
+VNG_1336C	PaaI	COG2050	Acyl-CoA thioesterase PaaI, contains HGG motif	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1337C	AslA	COG3119	Arylsulfatase A or related enzyme, AlkP superfamily	Inorganic ion transport and metabolism	Undefined
+VNG_1339C	MenE/FadK	COG0318	O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)	Lipid transport and metabolism	Menaquinone biosynthesis
+VNG_1340C	GloB	COG0491	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	General function prediction only	Undefined
+VNG_1341G	FabG	COG1028	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_1342G	SsuD	COG2141	Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)	Coenzyme transport and metabolism	Pyrimidine degradation
+VNG_1343C	FolK	COG1634	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase MptE (tetrahydrofolate and tetrahydromethanopterin biosynthesis)	Coenzyme transport and metabolism	Undefined
+VNG_1344G	FolP	COG0294	Dihydropteroate synthase	Coenzyme transport and metabolism	Folate biosynthesis
+VNG_1347C	TrmJ	COG0565	tRNA C32,U32 (ribose-2'-O)-methylase TrmJ or a related methyltransferase	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1349C	MaoC	COG2030	Acyl-CoA dehydratase PaaZ	Lipid transport and metabolism	Undefined
+VNG_1350C	RhaT	COG0697	Permease of the drug/metabolite transporter (DMT) superfamily	Carbohydrate transport and metabolism	Undefined
+VNG_1351G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1352G	GatE	COG2511	Archaeal Glu-tRNAGln amidotransferase subunit E, contains GAD domain	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1353C	YdbT	COG3428	Uncharacterized membrane protein YdbT, contains bPH2 (bacterial pleckstrin homology) domain	Function unknown	Undefined
+VNG_1356G	FumC	COG0114	Fumarate hydratase class II	Energy production and conversion	TCA cycle
+VNG_1357C	BolA	COG0271	DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation	Transcription	Undefined
+VNG_1359G	ExoIX	COG0258	5'-3' exonuclease Xni/ExoIX (flap endonuclease)	Replication, recombination and repair	Undefined
+VNG_1364G	OCDMu	COG2423	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	Amino acid transport and metabolism	Proline biosynthesis
+VNG_1365C	Undefined	COG3389	Presenilin-like membrane protease, A22 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1366H	GAR1	COG3277	rRNA processing protein Gar1	Translation, ribosomal structure and biogenesis	16S rRNA modification
+VNG_1367G	SEC65	COG1400	Signal recognition particle subunit SEC65	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_1369G	FepB	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_1370G	FepD	COG0609	ABC-type Fe3+-siderophore transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_1371G	FepC	COG1120	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	Inorganic ion transport and metabolism	Undefined
+VNG_1374G	PAS	COG2202	PAS domain	Signal transduction mechanisms	Undefined
+VNG_1375C	BaeS	COG0642	Signal transduction histidine kinase	Signal transduction mechanisms	Undefined
+VNG_1377G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1379G	SuhB	COG0483	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family	Carbohydrate transport and metabolism	Gluconeogenesis
+VNG_1383G	DinG	COG1199	Rad3-related DNA helicase DinG	Replication, recombination and repair	Undefined
+VNG_1385G	WbbJ	COG0110	Acetyltransferase, isoleucine patch superfamily	General function prediction only	Undefined
+VNG_1389C	DisA	COG1624	c-di-AMP synthetase, contains DisA_N domain	Signal transduction mechanisms	Undefined
+VNG_1390a	CAB4	COG1019	Phosphopantetheine adenylyltransferase	Coenzyme transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_1397C	YbdK	COG2170	Gamma-glutamyl:cysteine ligase YbdK, ATP-grasp superfamily	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1398C	ElaA	COG2153	Predicted N-acyltransferase, GNAT family	General function prediction only	Undefined
+VNG_1401C	Undefined	COG1860	Predicted metal-binding protein, contains two cysteine clusters, UPF0179 family	Nucleotide transport and metabolism	Undefined
+VNG_1402H	YpuF	COG1547	Predicted metal-dependent hydrolase	Function unknown	Undefined
+VNG_1404G	MsrB	COG0229	Peptide methionine sulfoxide reductase MsrB	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1405C	HxlR	COG1733	DNA-binding transcriptional regulator, HxlR family	Transcription	Undefined
+VNG_1406G	SSL2	COG1061	Superfamily II DNA or RNA helicase	Transcription	Undefined
+VNG_1407C	FadM	COG0824	Acyl-CoA thioesterase FadM	Lipid transport and metabolism	Menaquinone biosynthesis
+VNG_1408G	UshA	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	Nucleotide transport and metabolism	Undefined
+VNG_1409C	Undefined	COG1967	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_1414G	GlyA	COG0112	Glycine/serine hydroxymethyltransferase	Amino acid transport and metabolism	Serine biosynthesis
+VNG_1416G	FolD	COG0190	5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase	Coenzyme transport and metabolism	Undefined
+VNG_1418C	DLH	COG0412	Dienelactone hydrolase	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1422H	Undefined	COG3342	Uncharacterized conserved protein, Ntn-hydrolase superfamily	General function prediction only	Undefined
+VNG_1428G	PerM	COG0628	Predicted PurR-regulated permease PerM	General function prediction only	Undefined
+VNG_1429C	CofD	COG0391	Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family	Carbohydrate transport and metabolism	Undefined
+VNG_1432G	DYS1	COG1899	Deoxyhypusine synthase	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1435G	Asd	COG0136	Aspartate-semialdehyde dehydrogenase	Amino acid transport and metabolism	Lysine biosynthesis
+VNG_1437G	SerA	COG0111	Phosphoglycerate dehydrogenase or related dehydrogenase	Coenzyme transport and metabolism	Serine biosynthesis
+VNG_1444G	HisD	COG0141	Histidinol dehydrogenase	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_1446H	Undefined	COG3360	Flavin-binding protein dodecin	General function prediction only	Undefined
+VNG_1450G	UshA	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family	Nucleotide transport and metabolism	Undefined
+VNG_1451C	YrhO	COG1378	Sugar-specific transcriptional regulator TrmB	Transcription	Undefined
+VNG_1452G	GCD2	COG1184	Translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_1454C	RtcB	COG1690	RNA-splicing ligase RtcB, repairs tRNA damage	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1456H	ARCH	COG1371	Archease, activates RNA ligation by RtcB (tRNA splicing)	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1457C	RimI	COG0456	Ribosomal protein S18 acetylase RimI and related acetyltransferases	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1458G	ERG9	COG1562	Phytoene/squalene synthetase	Lipid transport and metabolism	Undefined
+VNG_1462G	SpoVK	COG0464	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1464G	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_1467G	Undefined	COG5524	Bacteriorhodopsin	Energy production and conversion	Undefined
+VNG_1470G	PRI1	COG1467	Eukaryotic-type DNA primase, catalytic (small) subunit	Replication, recombination and repair	Undefined
+VNG_1471C	Undefined	COG1711	DNA replication initiation complex subunit, GINS family	Replication, recombination and repair	Undefined
+VNG_1472G	SpoVK	COG0464	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1474G	MenH	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	Coenzyme transport and metabolism	Menaquinone biosynthesis
+VNG_1475C	MJ0795	COG1361	S-layer protein MJ0795, predicted component of type IV pili-like system	General function prediction only	Undefined
+VNG_1476C	MMPL	COG1033	Predicted exporter protein, RND superfamily	General function prediction only	Undefined
+VNG_1478G	PanB	COG0413	Ketopantoate hydroxymethyltransferase	Coenzyme transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_1480C	Gph	COG0546	Phosphoglycolate phosphatase, HAD superfamily	Energy production and conversion	Undefined
+VNG_1481G	CysE	COG1045	Serine acetyltransferase	Amino acid transport and metabolism	Cysteine biosynthesis
+VNG_1482G	CaiA	COG1960	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_1483C	aMBF1	COG1813	Archaeal ribosome-binding protein aMBF1, putative translation factor, contains Zn-ribbon and HTH domains	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1487H	NimA	COG3467	Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily	Defense mechanisms	Undefined
+VNG_1488G	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_1492C	YozB	COG2322	Predicted membrane metallochaperone YozB (3H, Sco1 fusion), DUF420 family	General function prediction only	Undefined
+VNG_1493G	PurF	COG0034	Glutamine phosphoribosylpyrophosphate amidotransferase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1494G	RPL37A	COG2126	Ribosomal protein L37E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1496G	LSM1	COG1958	Small nuclear ribonucleoprotein (snRNP) homolog	Transcription	Undefined
+VNG_1497C	Zincin	COG5282	Zn-dependent metallopeptidase, zincin/DUF2342 superfamily	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1498G	FrvX	COG1363	Putative aminopeptidase FrvX	Amino acid transport and metabolism	Undefined
+VNG_1501G	DNA2	COG1112	Superfamily I DNA and/or RNA helicase	Replication, recombination and repair	Undefined
+VNG_1503C	ElaC	COG1234	Ribonuclease BN, tRNA processing enzyme	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1506G	PelA	COG1537	Stalled ribosome rescue protein Dom34, pelota family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1508C	RqcH	COG1293	Ribosome quality control (RQC) protein RqcH, Rqc2/NEMF/Tae2 family, contains fibronectin-(FbpA) and RNA- (NFACT) binding domains	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1510C	ELP3	COG1243	tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1511C	Undefined	COG1107	Archaea-specific RecJ-like exonuclease, contains DnaJ-type Zn finger domain	Replication, recombination and repair	Undefined
+VNG_1514H	Yip1	COG2881	GTPase-interacting Yip1 domain	General function prediction only	Undefined
+VNG_1515G	Tdk	COG1435	Thymidine kinase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_1518H	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_1520G	MutY	COG1194	Adenine-specific DNA glycosylase, acts on AG and A-oxoG pairs	Replication, recombination and repair	Undefined
+VNG_1524C	ArgD	COG0160	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_1525C	MgtC	COG3174	Membrane component of predicted Mg2+ transport system, contains DUF4010 domain	Inorganic ion transport and metabolism	Undefined
+VNG_1526G	YocR	COG0733	Na+-dependent transporter, SNF family	General function prediction only	Undefined
+VNG_1528G	YocR	COG0733	Na+-dependent transporter, SNF family	General function prediction only	Undefined
+VNG_1529G	MmdA	COG4799	Acetyl-CoA carboxylase, carboxyltransferase component	Lipid transport and metabolism	Undefined
+VNG_1532G	PccA	COG4770	Acetyl/propionyl-CoA carboxylase, alpha subunit	Lipid transport and metabolism	Undefined
+VNG_1534a	BirA2|BirA	COG0340|COG1654	Biotin-(acetyl-CoA carboxylase) ligase|Biotin operon repressor	Coenzyme transport and metabolism|Transcription	Biotin biosynthesis|Undefined
+VNG_1536C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_1537C	YdhJ	COG1078	HD superfamily phosphohydrolase	General function prediction only	Undefined
+VNG_1540G	FabG	COG1028	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_1541G	SucC	COG0045	Succinyl-CoA synthetase, beta subunit	Energy production and conversion	TCA cycle
+VNG_1542G	SucD	COG0074	Succinyl-CoA synthetase, alpha subunit	Energy production and conversion	TCA cycle
+VNG_1543G	YhdJ	COG0863	DNA modification methylase	Replication, recombination and repair	Undefined
+VNG_1544G	ClcA	COG0038	H+/Cl- antiporter ClcA	Inorganic ion transport and metabolism	Undefined
+VNG_1546H	GrxC	COG0695	Glutaredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1547C	PduO	COG2096	Cob(II)alamin adenosyltransferase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1548C	MJ0558	COG1497	Predicted transcriptional regulator MJ0558, contains a CRP-type HTH domain	Transcription	Undefined
+VNG_1550G	CobL	COG2242	Precorrin-6B methylase 2	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1551G	CobF	COG2243	Precorrin-2 methylase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1553G	CobM	COG2875	Precorrin-4 methylase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1554G	CbiG	COG2073	Cobalamin biosynthesis protein CbiG	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1555G	CobJ	COG1010	Precorrin-3B methylase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1557G	CobJ	COG1010	Precorrin-3B methylase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1561C	SirB|Undefined	COG2138|COG3411	Sirohydrochlorin ferrochelatase|2Fe-2S ferredoxin	Coenzyme transport and metabolism|Energy production and conversion	Cobalamine/B12 biosynthesis|2Fe2S
+VNG_1565G	ChlI|ChlD	COG1239|COG1240	Mg-chelatase subunit ChlI|vWFA (von Willebrand factor type A) domain of Mg and Co chelatases	Coenzyme transport and metabolism	Undefined
+VNG_1567G	CobH	COG2082	Precorrin-8X methylmutase CbiC/CobH	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1568G	CobL	COG2241	Precorrin-6B methylase 1	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1570H	SirB	COG2138	Sirohydrochlorin ferrochelatase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1572C	CobT	COG2038	NaMN:DMB phosphoribosyltransferase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1573G	CobB	COG1797	Cobyrinic acid a,c-diamide synthase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1574G	BtuR	COG2109	ATP:corrinoid adenosyltransferase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1576G	CobQ	COG1492	Cobyric acid synthase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1577C	YigB	COG1011	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	Coenzyme transport and metabolism	Undefined
+VNG_1578H	CbiB	COG1270	Cobalamin biosynthesis protein CobD/CbiB	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1580H	CobS	COG0368	Cobalamin synthase CobS (adenosylcobinamide-GDP ribazoletransferase)	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1581C	Undefined	COG2266	GTP:adenosylcobinamide-phosphate guanylyltransferase	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1582G	HisC	COG0079	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase	Amino acid transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_1583C	CbiZ	COG1865	Adenosylcobinamide amidohydrolase	Coenzyme transport and metabolism	Undefined
+VNG_1592G	CysU	COG0555	ABC-type sulfate transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_1595C	ModA	COG0725	ABC-type molybdate transport system, periplasmic Mo-binding protein ModA	Inorganic ion transport and metabolism	Molybdopterin biosynthesis
+VNG_1598a	Undefined	COG1356	Transcriptional regulator	Transcription	Undefined
+VNG_1601G	GcvP2	COG1003	Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain	Amino acid transport and metabolism	Glycine cleavage
+VNG_1603G	GcvP1	COG0403	Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain	Amino acid transport and metabolism	Glycine cleavage
+VNG_1605G	GcvH	COG0509	Glycine cleavage system protein H (lipoate-binding)	Amino acid transport and metabolism	Glycine cleavage
+VNG_1606G	GcvT	COG0404	Glycine cleavage system protein T (aminomethyltransferase)	Amino acid transport and metabolism	Glycine cleavage
+VNG_1607G	CheC	COG1776	Phosphoaspartate phosphatase CheC, specific for CheY-P	Signal transduction mechanisms	Undefined
+VNG_1608C	LabA	COG1432	NYN domain, predicted PIN-related RNAse, tRNA/rRNA maturation	General function prediction only	Undefined
+VNG_1609C	AIM24	COG2013	AIM24 protein, required for mitochondrial respiration	Energy production and conversion	Undefined
+VNG_1610C	Undefined	COG1831	Predicted metal-dependent hydrolase, urease superfamily	General function prediction only	Undefined
+VNG_1611C	Undefined	COG4749	Uncharacterized conserved protein, DUF2150 domain	Function unknown	Undefined
+VNG_1615G	PksG	COG3425	3-hydroxy-3-methylglutaryl CoA synthase	Lipid transport and metabolism	Isoprenoid biosynthesis
+VNG_1616C	Undefined	COG1709	Predicted transcriptional regulator,contains XRE-type HTH domain	Transcription	Undefined
+VNG_1618H	SsuE	COG0431	NAD(P)H-dependent FMN reductase	Energy production and conversion	Undefined
+VNG_1621H	NimA	COG3467	Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily	Defense mechanisms	Undefined
+VNG_1622G	HolB	COG0470	DNA polymerase III, delta prime subunit	Replication, recombination and repair	Undefined
+VNG_1623G	CtaA	COG1612	Heme A synthase	Coenzyme transport and metabolism	Undefined
+VNG_1624G	Pta|SfcA	COG0280|COG0281	Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase)|Malic enzyme	Energy production and conversion	Undefined|Urea cycle
+VNG_1626C	RhaT	COG0697	Permease of the drug/metabolite transporter (DMT) superfamily	Carbohydrate transport and metabolism	Undefined
+VNG_1628G	PdxI	COG0667	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	Coenzyme transport and metabolism	Undefined
+VNG_1631G	EcfA2	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2	Inorganic ion transport and metabolism	Undefined
+VNG_1632G	EcfT	COG0619	ECF-type transporter transmembrane protein EcfT	Coenzyme transport and metabolism	Undefined
+VNG_1634G	CbiN	COG1930	ABC-type cobalt transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_1635G	CbiM	COG0310	ABC-type Co2+ transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_1637G	PetE	COG3794	Plastocyanin	Energy production and conversion	Undefined
+VNG_1641H	TVP38	COG0398	Uncharacterized membrane protein YdjX, related to fungal oxalate transporter, TVP38/TMEM64 family	Function unknown	Undefined
+VNG_1644G	NrdA	COG0209	Ribonucleotide reductase alpha subunit	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_1646G	PabA	COG0512	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1647G	TrpE	COG0147	Anthranilate/para-aminobenzoate synthases component I	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1648G	TrpF	COG0135	Phosphoribosylanthranilate isomerase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1649G	TrpD	COG0547	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1653H	InsG	COG3385	IS4 transposase InsG	Mobilome: prophages, transposons	Undefined
+VNG_1657H	Undefined	COG4885	Uncharacterized conserved protein	Function unknown	Undefined
+VNG_1658C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_1660G	Undefined	COG5524	Bacteriorhodopsin	Energy production and conversion	Undefined
+VNG_1665G	RecA	COG0468	RecA/RadA recombinase	Replication, recombination and repair	Undefined
+VNG_1666H	RfbD	COG1091	dTDP-4-dehydrorhamnose reductase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1667G	SpoVK	COG0464	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1668G	RPS8A	COG2007	Ribosomal protein S8E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1670C	Undefined	COG3612	Predicted DNA-binding protein AF1194, contains HTH domain, DUF2240 family	Function unknown	Undefined
+VNG_1673G	PyrF	COG0284	Orotidine-5'-phosphate decarboxylase	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_1675a	YigB	COG1011	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)	Coenzyme transport and metabolism	Undefined
+VNG_1676G	GTPBP1	COG5258	GTPase	General function prediction only	Undefined
+VNG_1680G	ERG9	COG1562	Phytoene/squalene synthetase	Lipid transport and metabolism	Undefined
+VNG_1681C	Undefined	COG2324	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_1682C	UbiA	COG0382	4-hydroxybenzoate polyprenyltransferase	Coenzyme transport and metabolism	Ubiquinone biosynthesis
+VNG_1684G	Undefined	COG1233	Phytoene dehydrogenase-related protein	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1686G	Mch	COG3252	Methenyltetrahydromethanopterin cyclohydrolase	Coenzyme transport and metabolism	Undefined
+VNG_1688C	MTH1	COG2106	Predicted RNA methylase MTH1, SPOUT superfamily	General function prediction only	Undefined
+VNG_1689G	RplC	COG0087	Ribosomal protein L3	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1690G	RplD	COG0088	Ribosomal protein L4	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1691G	RplW	COG0089	Ribosomal protein L23	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1692G	RplB	COG0090	Ribosomal protein L2	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1693G	RpsS	COG0185	Ribosomal protein S19	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1695G	RplV	COG0091	Ribosomal protein L22	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1697G	RpsC	COG0092	Ribosomal protein S3	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1698G	RpmC	COG0255	Ribosomal protein L29	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1699C	POP4	COG1588	RNase P/RNase MRP subunit p29	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1700G	RpsQ	COG0186	Ribosomal protein S17	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1701G	RplN	COG0093	Ribosomal protein L14	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1702G	RplX	COG0198	Ribosomal protein L24	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1703G	RPS4A	COG1471	Ribosomal protein S4E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1705G	RplE	COG0094	Ribosomal protein L5	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1707G	RpsH	COG0096	Ribosomal protein S8	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1709G	RplF	COG0097	Ribosomal protein L6P/L9E	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1711G	Rpl32e	COG1717	Ribosomal protein L32E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1713G	RPL19A	COG2147	Ribosomal protein L19E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_1714G	RplR	COG0256	Ribosomal protein L18	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1715G	RpsE	COG0098	Ribosomal protein S5	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_1716G	RpmD	COG1841	Ribosomal protein L30/L7E	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1718G	RplO	COG0200	Ribosomal protein L15	Translation, ribosomal structure and biogenesis	Ribosome 50S subunit
+VNG_1719G	SecY	COG0201	Preprotein translocase subunit SecY	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_1720H	FepB	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_1721G	TrkG	COG0168	Trk-type K+ transport system, membrane component	Inorganic ion transport and metabolism	Undefined
+VNG_1724G	Adk	COG0563	Adenylate kinase or related kinase	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_1726G	YidC	COG1422	Archaeal YidC/Oxa1-related membrane protein, DUF106 family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1727G	CmkB	COG1102	Cytidylate kinase	Nucleotide transport and metabolism	Undefined
+VNG_1729G	TruB	COG0130	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1732C	YjbI	COG1357	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	Function unknown	Undefined
+VNG_1735C	YcbX	COG3217	N-hydroxylaminopurine reductase subunit YcbX, contains MOSC domain	Nucleotide transport and metabolism	Undefined
+VNG_1737H	YjiC	COG1819	UDP:flavonoid glycosyltransferase YjiC, YdhE family	Carbohydrate transport and metabolism	Undefined
+VNG_1739G	RAD55	COG0467	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	Signal transduction mechanisms	Undefined
+VNG_1743C	RPB9	COG1594	DNA-directed RNA polymerase, subunit M/Transcription elongation factor TFIIS	Transcription	RNA polymerase
+VNG_1744H	ZupT	COG0428	Zinc transporter ZupT	Inorganic ion transport and metabolism	Undefined
+VNG_1746C	YqjF	COG3361	Uncharacterized conserved protein YqjF, DUF2071 family	Function unknown	Undefined
+VNG_1748C	YdfG	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	Energy production and conversion	Pyrimidine degradation
+VNG_1749G	GTP1	COG0012	Ribosome-binding ATPase YchF, GTP1/OBG family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1752C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_1754G	PhrB	COG0415	Deoxyribodipyrimidine photolyase	Replication, recombination and repair	Undefined
+VNG_1755G	Undefined	COG1233	Phytoene dehydrogenase-related protein	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1756G	InfA	COG0361	Translation initiation factor IF-1	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_1762G	OsmF	COG1732	Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein)	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_1764G	Undefined	COG5524	Bacteriorhodopsin	Energy production and conversion	Undefined
+VNG_1765G	Tar	COG0840	Methyl-accepting chemotaxis protein (MCP)	Signal transduction mechanisms	Undefined
+VNG_1766C	NIF3	COG0327	Putative GTP cyclohydrolase 1 type 2, NIF3 family	Coenzyme transport and metabolism	Folate biosynthesis
+VNG_1767G	SpeB	COG0010	Arginase/agmatinase family enzyme	Amino acid transport and metabolism	Urea cycle
+VNG_1768G	Efp	COG0231	Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A)	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_1769C	ArfB	COG1402	Creatinine amidohydrolase/Fe(II)-dependent FAPy formamide hydrolase (riboflavin and F420 biosynthesis)	Coenzyme transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_1770C	AarF	COG0661	Predicted protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family	Coenzyme transport and metabolism	Ubiquinone biosynthesis
+VNG_1771C	IbpA	COG0071	Small heat shock protein IbpA, HSP20 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1772G	Gph	COG0546	Phosphoglycolate phosphatase, HAD superfamily	Energy production and conversion	Undefined
+VNG_1773G	PhhB	COG2154	Pterin-4a-carbinolamine dehydratase	Coenzyme transport and metabolism	Undefined
+VNG_1774G	HemA	COG0373	Glutamyl-tRNA reductase	Coenzyme transport and metabolism	Heme biosynthesis
+VNG_1775C	CysG2	COG1648	Siroheme synthase (precorrin-2 oxidase/ferrochelatase domain)	Coenzyme transport and metabolism	Heme biosynthesis
+VNG_1776G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1779C	UppS	COG0020	Undecaprenyl pyrophosphate synthase	Lipid transport and metabolism	Undefined
+VNG_1781C	UppS	COG0020	Undecaprenyl pyrophosphate synthase	Lipid transport and metabolism	Undefined
+VNG_1782C	Undefined	COG1836	Cytidylyltransferase family enzyme	General function prediction only	Undefined
+VNG_1785G	PutP	COG0591	Na+/proline symporter	Amino acid transport and metabolism	Undefined
+VNG_1790H	Undefined	COG1416	Intracellular sulfur oxidation protein, DsrE/DsrF family	Inorganic ion transport and metabolism	Undefined
+VNG_1791C	YpjA	COG4347	Uncharacterized membrane protein YpjA	Function unknown	Undefined
+VNG_1793C	PdxS	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS	Coenzyme transport and metabolism	Pyridoxal phosphate biosynthesis
+VNG_1794C	YncB	COG1525	Endonuclease YncB, thermonuclease family	Replication, recombination and repair	Undefined
+VNG_1795C	HemY	COG1232	Protoporphyrinogen oxidase HemY/PPOX	Coenzyme transport and metabolism	Heme biosynthesis
+VNG_1797G	ThrB	COG0083	Homoserine kinase	Amino acid transport and metabolism	Threonine biosynthesis
+VNG_1801G	IbpA	COG0071	Small heat shock protein IbpA, HSP20 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1811G	YbfO	COG2312	Erythromycin esterase homolog	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_1814G	CarB	COG0458	Carbamoylphosphate synthase large subunit	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_1815G	CarA	COG0505	Carbamoylphosphate synthase small subunit	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_1816G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1818a	Rri1	COG1310	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1818G	Idi	COG1443	Isopentenyldiphosphate isomerase	Lipid transport and metabolism	Isoprenoid biosynthesis
+VNG_1821G	Qor	COG0604	NADPH:quinone reductase or related Zn-dependent oxidoreductase	Energy production and conversion	Undefined
+VNG_1822G	MoaB	COG0521	Molybdopterin biosynthesis enzyme MoaB/MogA	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_1823C	FAU1	COG0212	5-formyltetrahydrofolate cyclo-ligase	Coenzyme transport and metabolism	Undefined
+VNG_1829G	GuaA2	COG0519	GMP synthase, PP-ATPase domain/subunit	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1830G	PyrG	COG0504	CTP synthase (UTP-ammonia lyase)	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_1833C	Undefined	COG2945	Alpha/beta superfamily hydrolase	General function prediction only	Undefined
+VNG_1834G	Bcp	COG1225	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1835G	ThrS	COG0441	Threonyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_1836G	CspC	COG1278	Cold shock protein, CspA family	Transcription	Undefined
+VNG_1837G	RspA	COG4948	L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily	Cell wall/membrane/envelope biogenesis	Non-phosphorylated Entner-Doudoroff pathway
+VNG_1839H	Undefined	COG3367	Uncharacterized conserved protein, NAD-dependent epimerase/dehydratase family	General function prediction only	Undefined
+VNG_1843C	Undefined	COG1777	Predicted transcriptional regulator, ArsR family	Transcription	Undefined
+VNG_1844G	AnsA	COG0252	L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1846C	UgpQ	COG0584	Glycerophosphoryl diester phosphodiesterase	Lipid transport and metabolism	Undefined
+VNG_1848H	MoaD	COG1977	Molybdopterin synthase sulfur carrier subunit MoaD	Coenzyme transport and metabolism	Molybdopterin biosynthesis
+VNG_1850G	Udp	COG2820	Uridine phosphorylase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_1851G	RbsK	COG0524	Sugar or nucleoside kinase, ribokinase family	Carbohydrate transport and metabolism	Glycolysis
+VNG_1852H	Undefined	COG1967	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_1853G	GCD2	COG1184	Translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_1857C	LivK	COG0683	ABC-type branched-chain amino acid transport system, periplasmic component	Amino acid transport and metabolism	Undefined
+VNG_1859G	DeoC	COG0274	Deoxyribose-phosphate aldolase	Nucleotide transport and metabolism	Undefined
+VNG_1861C	MiaB	COG0621	tRNA A37 methylthiotransferase MiaB	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1862G	FieF	COG0053	Divalent metal cation (Fe/Co/Zn/Cd) efflux pump	Inorganic ion transport and metabolism	Undefined
+VNG_1864G	HinT	COG0537	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	Nucleotide transport and metabolism	Undefined
+VNG_1866G	Map	COG0024	Methionine aminopeptidase	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1867G	PotC	COG1177	ABC-type spermidine/putrescine transport system, permease component II	Amino acid transport and metabolism	Undefined
+VNG_1868G	PotB	COG1176	ABC-type spermidine/putrescine transport system, permease component I	Amino acid transport and metabolism	Undefined
+VNG_1869C	PotD	COG0687	Spermidine/putrescine-binding periplasmic protein	Amino acid transport and metabolism	Undefined
+VNG_1871G	PotA	COG3842	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	Amino acid transport and metabolism	Undefined
+VNG_1872C	IaaA	COG1446	Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily	Amino acid transport and metabolism	Undefined
+VNG_1873G	Icd	COG0538	Isocitrate dehydrogenase	Energy production and conversion	TCA cycle
+VNG_1875G	HMG1	COG1257	Hydroxymethylglutaryl-CoA reductase	Lipid transport and metabolism	Isoprenoid biosynthesis
+VNG_1877C	YqgV	COG0011	Thiamin-binding stress-response protein YqgV, UPF0045 family	Coenzyme transport and metabolism	Undefined
+VNG_1879G	TbpA	COG4143	ABC-type thiamine transport system, periplasmic component TbpA	Coenzyme transport and metabolism	Undefined
+VNG_1880C	YtcJ	COG1574	Predicted amidohydrolase YtcJ	General function prediction only	Undefined
+VNG_1882G	NadA	COG0379	Quinolinate synthase	Coenzyme transport and metabolism	NAD biosynthesis
+VNG_1883G	NadB	COG0029	Aspartate oxidase	Coenzyme transport and metabolism	NAD biosynthesis
+VNG_1884G	NadC	COG0157	Nicotinate-nucleotide pyrophosphorylase	Coenzyme transport and metabolism	NAD biosynthesis
+VNG_1886a	EmrE	COG2076	Multidrug transporter EmrE and related cation transporters	Defense mechanisms	Undefined
+VNG_1886C	YrhO	COG1378	Sugar-specific transcriptional regulator TrmB	Transcription	Undefined
+VNG_1887G	GpmI	COG0696	Phosphoglycerate mutase (BPG-independent), AlkP superfamily	Carbohydrate transport and metabolism	Glycolysis
+VNG_1893G	CcmA	COG1131	ABC-type multidrug transport system, ATPase component	Defense mechanisms	Undefined
+VNG_1896C	HerA	COG0433	Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains	Replication, recombination and repair	Undefined
+VNG_1898C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_1899G	RAD55	COG0467	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	Signal transduction mechanisms	Undefined
+VNG_1900C	NadK	COG0061	NAD kinase	Coenzyme transport and metabolism	Undefined
+VNG_1901C	FolE2	COG1469	GTP cyclohydrolase FolE2	Coenzyme transport and metabolism	Folate biosynthesis
+VNG_1903C	YrhO	COG1378	Sugar-specific transcriptional regulator TrmB	Transcription	Undefined
+VNG_1906H	FxsA	COG3030	FxsA protein affecting phage T7 exclusion by the F plasmid, UPF0716 family	General function prediction only	Undefined
+VNG_1911G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_1912G	TrpD	COG0547	Anthranilate phosphoribosyltransferase, glycosyltransferase domain	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_1914G	PpiB	COG0652	Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_1917H	SnoaL	COG4538	Uncharacterized conserved protein, contains SnoaL-like domain	Function unknown	Undefined
+VNG_1918C	PcrB	COG1646	Glycerol-1-phosphate heptaprenyltransferase	Lipid transport and metabolism	Undefined
+VNG_1919H	CrcB	COG0239	Fluoride ion exporter CrcB/FEX, affects chromosome condensation	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_1924G	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_1926G	AcoA	COG1071	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	Energy production and conversion	Pyruvate oxidation
+VNG_1929G	Tmk	COG0125	Thymidylate kinase	Nucleotide transport and metabolism	Thymidylate biosynthesis
+VNG_1932G	YbjT	COG0702	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	General function prediction only	Undefined
+VNG_1933G	FtsZ	COG0206	Cell division GTPase FtsZ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_1935C	Undefined	COG1920	2-phospho-L-lactate guanylyltransferase, coenzyme F420 biosynthesis enzyme, CobY/MobA/RfbA family	Coenzyme transport and metabolism	Undefined
+VNG_1937C	ThiH	COG1060	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	Coenzyme transport and metabolism	Thiamine biosynthesis
+VNG_1938C	ThiH	COG1060	2-iminoacetate synthase ThiH/Menaquinone biosynthesis enzymes MqnC and MqnE	Coenzyme transport and metabolism	Thiamine biosynthesis
+VNG_1939G	PurC	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1941C	RaSEA	COG1244	Archaeosine formation enzyme, radical SAM superfamily	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1944C	PurS	COG1828	Phosphoribosylformylglycinamidine (FGAM) synthase, PurS subunit	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1945G	PurL2	COG0047	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1946G	PurU	COG0788	Formyltetrahydrofolate hydrolase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_1957G	ArcS	COG1549	Archaeosine tRNA-ribosyltransferase, contains uracil-DNA-glycosylase and PUA domains	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1959G	Tgt	COG0343	Queuine/archaeosine tRNA-ribosyltransferase	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1962C	YjhB	COG1051	ADP-ribose pyrophosphatase YjhB, NUDIX family	Nucleotide transport and metabolism	Undefined
+VNG_1963a	Undefined	COG0645	Predicted kinase, contains AAA domain	General function prediction only	Undefined
+VNG_1964H	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_1967G	GlpK	COG0554	Glycerol kinase	Energy production and conversion	Undefined
+VNG_1969G	GlpA	COG0578	Glycerol-3-phosphate dehydrogenase	Energy production and conversion	Isoprenoid biosynthesis
+VNG_1971G	GlpB	COG3075	Anaerobic glycerol-3-phosphate dehydrogenase	Amino acid transport and metabolism	Undefined
+VNG_1972G	GlpC	COG0247	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	Energy production and conversion	Undefined
+VNG_1974H	Undefined	COG3430	Archaeal flagellin (archaellin), FlaG/FlaF family	Cell motility	Undefined
+VNG_1980C	TrmY	COG1901	tRNA pseudouridine-54 N-methylase	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1982C	Pus10	COG1258	tRNA U54 and U55 pseudouridine synthase Pus10	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_1984G	RnhB	COG0164	Ribonuclease HII	Replication, recombination and repair	Undefined
+VNG_1985C	NhaC	COG1757	Na+/H+ antiporter NhaC/MleN	Energy production and conversion	Undefined
+VNG_1986C	NucS	COG1637	Endonuclease NucS, RecB family	Replication, recombination and repair	Undefined
+VNG_1987G	SecD	COG0342	Preprotein translocase subunit SecD	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_1988G	SecF	COG0341	Preprotein translocase subunit SecF	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_1992G	Pgi	COG0166	Glucose-6-phosphate isomerase	Carbohydrate transport and metabolism	Glycolysis
+VNG_1994C	Nob1	COG1439	rRNA maturation endonuclease Nob1	Translation, ribosomal structure and biogenesis	Undefined
+VNG_1995C	YlmC	COG1873	Sporulation protein YlmC, YlmC/YmxH family, contains PRC-barrel domain	General function prediction only	Undefined
+VNG_1997G	InfB	COG0532	Translation initiation factor IF-2, a GTPase	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_1999H	PdaD	COG1945	Pyruvoyl-dependent arginine decarboxylase	Amino acid transport and metabolism	Undefined
+VNG_2000G	RPT1	COG1222	ATP-dependent 26S proteasome regulatory subunit	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2001G	PepF	COG1164	Oligoendopeptidase F	Amino acid transport and metabolism	Undefined
+VNG_2002H	Iap	COG2234	Zn-dependent amino- or carboxypeptidase, M28 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2003G	TruA	COG0101	tRNA U38,U39,U40 pseudouridine synthase TruA	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2005G	HisS	COG0124	Histidyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2006C	Undefined	COG2117	Predicted subunit of tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop ATPase domain	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2008H	PDCD5	COG2118	DNA-binding TFAR19-related protein, PDSD5 family	General function prediction only	Undefined
+VNG_2010G	RPS19A	COG2238	Ribosomal protein S19E (S16A)	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_2011G	ThiL	COG0611	Thiamine monophosphate kinase	Coenzyme transport and metabolism	Thiamine biosynthesis
+VNG_2015C	PyrH	COG0528	Uridylate kinase	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_2017G	LysS	COG1384	Lysyl-tRNA synthetase, class I	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2020C	PadR	COG1695	DNA-binding transcriptional regulator, PadR family	Transcription	Undefined
+VNG_2021C	HmoA|HemQ	COG2329|COG3253	Heme-degrading monooxygenase HmoA and related ABM domain proteins|Coproheme decarboxylase/chlorite dismutase	Coenzyme transport and metabolism	Undefined
+VNG_2023G	PdxI	COG0667	Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family	Coenzyme transport and metabolism	Undefined
+VNG_2031G	NadE	COG0171	NH3-dependent NAD+ synthetase	Coenzyme transport and metabolism	NAD biosynthesis
+VNG_2032G	CaiD	COG1024	Enoyl-CoA hydratase/carnithine racemase	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_2043G	RdgB	COG0127	Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family	Nucleotide transport and metabolism	Undefined
+VNG_2045G	TsaD|Bud32	COG0533|COG3642	tRNA A37 threonylcarbamoyltransferase TsaD|tRNA A-37 threonylcarbamoyl transferase component Bud32	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2047G	RPS27ae	COG1998	Ribosomal protein S27AE	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_2048G	RPS24A	COG2004	Ribosomal protein S24E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_2049C	DPCK	COG1909	Archaeal dephospho-CoA kinase	Coenzyme transport and metabolism	Undefined
+VNG_2051G	Spt4	COG2093	RNA polymerase subunit RPABC4/transcription elongation factor Spt4	Transcription	RNA polymerase
+VNG_2053G	RPB7	COG1095	DNA-directed RNA polymerase, subunit E'/Rpb7	Transcription	RNA polymerase
+VNG_2054H	Fcf1	COG1412	rRNA-processing protein FCF1	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2056G	GCD11	COG5257	Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_2060G	PhnP	COG1235	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase	Inorganic ion transport and metabolism	Undefined
+VNG_2063G	PaaJ	COG0183	Acetyl-CoA acetyltransferase	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_2064H	PMT	COG4745	Predicted membrane-bound mannosyltransferase, involved in protein glycosylation	General function prediction only	Undefined
+VNG_2067H	GtrA	COG2246	Putative flippase GtrA (transmembrane translocase of bactoprenol-linked glucose)	Lipid transport and metabolism	Undefined
+VNG_2068C	NhaP|TrkA	COG0025|COG0569	NhaP-type Na+/H+ or K+/H+ antiporter|Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_2071G	FAA1	COG1022	Long-chain acyl-CoA synthetase (AMP-forming)	Lipid transport and metabolism	Undefined
+VNG_2072G	SerS	COG0172	Seryl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2073C	GloB	COG0491	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	General function prediction only	Undefined
+VNG_2074H	YesE	COG3631	Ketosteroid isomerase-related protein	General function prediction only	Undefined
+VNG_2075C	Tsr3	COG2042	Ribosome biogenesis protein Tsr3 (rRNA maturation)	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2076G	RPL40A	COG1552	Ribosomal protein L40E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_2078G	RimL	COG1670	Protein N-acetyltransferase, RimJ/RimL family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2079G	YjhB	COG1051	ADP-ribose pyrophosphatase YjhB, NUDIX family	Nucleotide transport and metabolism	Undefined
+VNG_2080C	GloB	COG0491	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II	General function prediction only	Undefined
+VNG_2081a	Undefined	COG1628	Endonuclease V homolog, UPF0215 family	General function prediction only	Undefined
+VNG_2082G	Udg4	COG1573	Uracil-DNA glycosylase	Replication, recombination and repair	Undefined
+VNG_2084G	PhnE	COG3639	ABC-type phosphate/phosphonate transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_2085G	PhnC	COG3638	ABC-type phosphate/phosphonate transport system, ATPase component	Inorganic ion transport and metabolism	Undefined
+VNG_2086G	PhnD	COG3221	ABC-type phosphate/phosphonate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_2087G	HisH	COG0118	Imidazoleglycerol phosphate synthase glutamine amidotransferase subunit HisH	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_2088G	TRM1	COG1867	tRNA G26 N,N-dimethylase Trm1	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2093G	GlnA	COG0174	Glutamine synthetase	Amino acid transport and metabolism	Glutamine biosynthesis
+VNG_2094G	Lrp	COG1522	DNA-binding transcriptional regulator, Lrp family	Transcription	Undefined
+VNG_2096G	GroEL	COG0459	Chaperonin GroEL (HSP60 family)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2097C	YeiB	COG2311	Uncharacterized membrane protein YeiB	Function unknown	Undefined
+VNG_2099C	RidA	COG0251	Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family	Defense mechanisms	Pyrimidine degradation
+VNG_2100G	IlvA	COG1171	Threonine deaminase	Amino acid transport and metabolism	Isoleucine, leucine, valine biosynthesis
+VNG_2102G	GltA	COG0372	Citrate synthase	Energy production and conversion	TCA cycle
+VNG_2104G	Undefined	COG3273	Uncharacterized protein, contains PhoU and TrkA_C domains	General function prediction only	Undefined
+VNG_2106G	Undefined	COG3608	Predicted deacylase	General function prediction only	Undefined
+VNG_2108G	ThrC	COG0498	Threonine synthase	Amino acid transport and metabolism	Threonine biosynthesis
+VNG_2110C	TiaS	COG1571	tRNA(Ile2) C34 agmatinyltransferase TiaS	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2112C	Undefined	COG1395	Predicted transcriptional regulator	Transcription	Undefined
+VNG_2115H	GrxC	COG0695	Glutaredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2116C	NCS2	COG2252	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family	Nucleotide transport and metabolism	Undefined
+VNG_2117C	Apt	COG0503	Adenine/guanine phosphoribosyltransferase or related PRPP-binding protein	Nucleotide transport and metabolism	Purine salvage
+VNG_2118G	PyrE	COG0461	Orotate phosphoribosyltransferase	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_2119C	CdsA	COG0575	CDP-diglyceride synthetase	Lipid transport and metabolism	Phospholipid biosynthesis
+VNG_2121C	Undefined	COG2928	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_2122G	IlvE	COG0115	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Amino acid transport and metabolism	Isoleucine, leucine, valine biosynthesis
+VNG_2123G	NhaC	COG1757	Na+/H+ antiporter NhaC/MleN	Energy production and conversion	Undefined
+VNG_2124C	NhaC	COG1757	Na+/H+ antiporter NhaC/MleN	Energy production and conversion	Undefined
+VNG_2125G	RibB	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase	Coenzyme transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_2126C	Rfk	COG1339	Archaeal CTP-dependent riboflavin kinase	Coenzyme transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_2128C	Tyw1	COG0731	Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2130G	FlhG	COG0455	MinD-like ATPase FlhG/YlxH, activator of the FlhF-type GTPase	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_2131G	eRF1	COG1503	Peptide chain release factor 1 (eRF1)	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_2132G	Fdx	COG0633	Ferredoxin	Energy production and conversion	Undefined
+VNG_2135G	NtpD	COG1394	Archaeal/vacuolar-type H+-ATPase subunit D/Vma8	Energy production and conversion	A/V-type ATP synthase
+VNG_2138G	NtpB	COG1156	Archaeal/vacuolar-type H+-ATPase subunit B/Vma2	Energy production and conversion	A/V-type ATP synthase
+VNG_2139G	NtpA	COG1155	Archaeal/vacuolar-type H+-ATPase catalytic subunit A/Vma1	Energy production and conversion	A/V-type ATP synthase
+VNG_2140G	NtpF	COG1436	Archaeal/vacuolar-type H+-ATPase subunit F/Vma7	Energy production and conversion	A/V-type ATP synthase
+VNG_2141G	NtpC	COG1527	Archaeal/vacuolar-type H+-ATPase subunit C/Vma6	Energy production and conversion	A/V-type ATP synthase
+VNG_2142G	NtpE	COG1390	Archaeal/vacuolar-type H+-ATPase subunit E/Vma4	Energy production and conversion	A/V-type ATP synthase
+VNG_2144G	NtpI	COG1269	Archaeal/vacuolar-type H+-ATPase subunit I/STV1	Energy production and conversion	A/V-type ATP synthase
+VNG_2146H	NtpH	COG2811	Archaeal/vacuolar-type H+-ATPase subunit H	Energy production and conversion	A/V-type ATP synthase
+VNG_2147G	UbiE	COG2226	Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG	Coenzyme transport and metabolism	Biotin biosynthesis
+VNG_2150G	FixA	COG2086	Electron transfer flavoprotein, alpha and beta subunits	Energy production and conversion	Undefined
+VNG_2151G	FixB	COG2025	Electron transfer flavoprotein, alpha subunit FixB	Energy production and conversion	Undefined
+VNG_2152C	PEBP	COG1881	Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family	General function prediction only	Undefined
+VNG_2153G	IspA	COG0142	Geranylgeranyl pyrophosphate synthase	Coenzyme transport and metabolism	Isoprenoid biosynthesis
+VNG_2154C	Undefined	COG2237	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_2155C	Undefined	COG2108	Uncharacterized radical SAM domain-containing protein	Function unknown	Undefined
+VNG_2156C	PMT	COG4745	Predicted membrane-bound mannosyltransferase, involved in protein glycosylation	General function prediction only	Undefined
+VNG_2157C	Undefined	COG3269	Predicted RNA-binding protein, contains TRAM domain	General function prediction only	Undefined
+VNG_2158G	FabG	COG1028	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_2159G	CpsB	COG0836	Mannose-1-phosphate guanylyltransferase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_2162C	Undefined	COG3390	Replication protein A (RPA) family protein	Replication, recombination and repair	Undefined
+VNG_2166C	Undefined	COG3268	Uncharacterized conserved protein, related to short-chain dehydrogenases	Function unknown	Undefined
+VNG_2167G	DNA2	COG1112	Superfamily I DNA and/or RNA helicase	Replication, recombination and repair	Undefined
+VNG_2168C	SpoIVFB	COG1994	Zn-dependent protease (includes sporulation protein SpoIVFB)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2170H	QdoI	COG1917	Cupin domain protein related to quercetin dioxygenase	General function prediction only	Undefined
+VNG_2171G	EutG	COG1454	Alcohol dehydrogenase, class IV	Energy production and conversion	Undefined
+VNG_2172C	YcbJ	COG3173	Predicted  kinase, aminoglycoside phosphotransferase (APT) family	General function prediction only	Undefined
+VNG_2179H	Undefined	COG3430	Archaeal flagellin (archaellin), FlaG/FlaF family	Cell motility	Undefined
+VNG_2181G	Mcm2	COG1241	DNA replicative helicase MCM subunit Mcm2, Cdc46/Mcm family	Replication, recombination and repair	Undefined
+VNG_2184G	SUA7	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	Transcription	Undefined
+VNG_2186G	HinT	COG0537	Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family	Nucleotide transport and metabolism	Undefined
+VNG_2190G	IleS	COG0060	Isoleucyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2193G	CyoB	COG0843	Heme/copper-type cytochrome/quinol oxidase, subunit 1	Energy production and conversion	Undefined
+VNG_2195G	CyoA	COG1622	Heme/copper-type cytochrome/quinol oxidase, subunit 2	Energy production and conversion	Undefined
+VNG_2199H	DsbD	COG2836	Uncharacterized membrane protein, DsbD domain	Function unknown	Undefined
+VNG_2201G	ZntA	COG2217	Cation-transporting P-type ATPase	Inorganic ion transport and metabolism	Undefined
+VNG_2203G	PrsA	COG0462	Phosphoribosylpyrophosphate synthetase	Nucleotide transport and metabolism	Histidine biosynthesis, Purine biosynthesis
+VNG_2206G	ManB	COG1109	Phosphomannomutase	Carbohydrate transport and metabolism	Undefined
+VNG_2208G	TrpS	COG0180	Tryptophanyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2210G	SEN2	COG1676	tRNA splicing endonuclease subunit SEN34	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2213G	BRR2	COG1204	Replicative superfamily II helicase	Replication, recombination and repair	Undefined
+VNG_2214G	NorM	COG0534	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	Defense mechanisms	Undefined
+VNG_2216G	LipA	COG0320	Lipoate synthase	Coenzyme transport and metabolism	Lipoate biosynthesis
+VNG_2217G	AcoA	COG1071	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha	Energy production and conversion	Pyruvate oxidation
+VNG_2218G	AcoB	COG0022	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit	Energy production and conversion	Pyruvate oxidation
+VNG_2219G	AceF	COG0508	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component	Energy production and conversion	Pyruvate oxidation
+VNG_2220G	Lpd	COG1249	Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase	Energy production and conversion	Glycine cleavagePyruvate oxidation
+VNG_2222G	PheA2	COG0077	Prephenate dehydratase	Amino acid transport and metabolism	Aromatic amino acid biosynthesis
+VNG_2223G	LeuS	COG0495	Leucyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2224G	OCDMu	COG2423	Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family	Amino acid transport and metabolism	Proline biosynthesis
+VNG_2226G	GroEL	COG0459	Chaperonin GroEL (HSP60 family)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2227C	Krr1	COG1094	rRNA processing protein Krr1/Pno1, contains KH domain	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2232G	TrpS	COG0180	Tryptophanyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2233C	RIO1	COG1718	Serine/threonine-protein kinase RIO1	Signal transduction mechanisms	Undefined
+VNG_2234G	InfA	COG0361	Translation initiation factor IF-1	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_2237G	TyrS	COG0162	Tyrosyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2238C	Undefined	COG2433	Possible nuclease of RNase H fold, RuvC/YqgF family	General function prediction only	Undefined
+VNG_2239C	ElaC	COG1234	Ribonuclease BN, tRNA processing enzyme	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2240G	HolB	COG0470	DNA polymerase III, delta prime subunit	Replication, recombination and repair	Undefined
+VNG_2243G	SPT15	COG2101	TATA-box binding protein (TBP), component of TFIID and TFIIIB	Transcription	Undefined
+VNG_2247G	HisG	COG0040	ATP phosphoribosyltransferase	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_2249G	SsnA	COG0402	Cytosine/adenosine deaminase or related metal-dependent hydrolase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_2251G	SAM1	COG0499	S-adenosylhomocysteine hydrolase	Coenzyme transport and metabolism	Undefined
+VNG_2252G	Undefined	COG1591	Holliday junction resolvase Hjc, archaeal type	Replication, recombination and repair	Undefined
+VNG_2254C	PRI2	COG2219	Eukaryotic-type DNA primase, large subunit	Replication, recombination and repair	Undefined
+VNG_2255C	Psd	COG0688	Phosphatidylserine decarboxylase	Lipid transport and metabolism	Phospholipid biosynthesis
+VNG_2257G	ECM27	COG0530	Ca2+/Na+ antiporter	Inorganic ion transport and metabolism	Undefined
+VNG_2259C	PpcA	COG1892	Phosphoenolpyruvate carboxylase	Carbohydrate transport and metabolism	Undefined
+VNG_2262a	TesA	COG2755	Lysophospholipase L1 or related esterase. Includes spore coat protein LipC/YcsK	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_2263G	RlmE|Undefined	COG0293|COG3269	23S rRNA U2552 (ribose-2'-O)-methylase RlmE/FtsJ|Predicted RNA-binding protein, contains TRAM domain	Translation, ribosomal structure and biogenesis|General function prediction only	23S rRNA modification|Undefined
+VNG_2264C	YhhQ	COG1738	Queuosine precursor transporter YhhQ, DUF165 family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2267G	TatC	COG0805	Twin-arginine protein secretion pathway component TatC	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2269G	TatC	COG0805	Twin-arginine protein secretion pathway component TatC	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2270G	MutS2	COG1193	dsDNA-specific endonuclease/ATPase MutS2	Replication, recombination and repair	Undefined
+VNG_2271G	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_2272G	RpiA	COG0120	Ribose 5-phosphate isomerase	Carbohydrate transport and metabolism	Pentose phosphate pathway
+VNG_2274C	YhbQ	COG2827	Predicted endonuclease, GIY-YIG superfamily	Replication, recombination and repair	Undefined
+VNG_2276G	ManB	COG1109	Phosphomannomutase	Carbohydrate transport and metabolism	Undefined
+VNG_2279H	ThiS	COG2104	Sulfur carrier protein ThiS (thiamine biosynthesis)	Coenzyme transport and metabolism	Thiamine biosynthesis
+VNG_2280G	HolB	COG0470	DNA polymerase III, delta prime subunit	Replication, recombination and repair	Undefined
+VNG_2281C	ECM4	COG0435	Glutathionyl-hydroquinone reductase	Energy production and conversion	Undefined
+VNG_2282C	DsbG	COG1651	Protein thiol-disulfide isomerase DsbC	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2283G	AlaS	COG0013	Alanyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2284G	HisI1	COG0139	Phosphoribosyl-AMP cyclohydrolase	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_2285C	PulO	COG1989	Prepilin signal peptidase PulO (type II secretory pathway) or related peptidase	Cell motility	Undefined
+VNG_2286G	Sbm	COG2185	Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)	Lipid transport and metabolism	Undefined
+VNG_2288G	GlmE	COG4865	Glutamate mutase epsilon subunit	Amino acid transport and metabolism	Undefined
+VNG_2289G	Mal	COG3799	Methylaspartate ammonia-lyase	Amino acid transport and metabolism	Undefined
+VNG_2290G	MaoC	COG2030	Acyl-CoA dehydratase PaaZ	Lipid transport and metabolism	Undefined
+VNG_2291G	ACH1	COG0427	Propionyl CoA:succinate CoA transferase	Energy production and conversion	Undefined
+VNG_2293G	Fdx	COG0633	Ferredoxin	Energy production and conversion	Undefined
+VNG_2294G	HisA	COG0106	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_2295G	HisB2	COG0131	Imidazoleglycerol phosphate dehydratase HisB	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_2296C	Undefined	COG2150	Predicted regulator of amino acid metabolism, contains ACT domain	General function prediction only	Undefined
+VNG_2298a	YIH1	COG1739	Putative translation regulator, IMPACT (imprinted ancient) protein family	General function prediction only	Undefined
+VNG_2302G	DAP2	COG1506	Dipeptidyl aminopeptidase/acylaminoacyl peptidase	Amino acid transport and metabolism	Undefined
+VNG_2305C	Upp	COG0035	Uracil phosphoribosyltransferase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_2307C	PitA	COG0306	Phosphate/sulfate permease	Inorganic ion transport and metabolism	Undefined
+VNG_2308G	TlyC	COG1253	Hemolysin-related protein, contains CBS domains, UPF0053 family	General function prediction only	Undefined
+VNG_2310H	GrxC	COG0695	Glutaredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2311H	Bcp	COG1225	Peroxiredoxin	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2312C	TsaC	COG0009	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2316C	BioY	COG1268	Biotin transporter BioY	Coenzyme transport and metabolism	Undefined
+VNG_2317a	EcfT	COG0619	ECF-type transporter transmembrane protein EcfT	Coenzyme transport and metabolism	Undefined
+VNG_2317G	EcfA2	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2	Inorganic ion transport and metabolism	Undefined
+VNG_2320G	GlpC	COG0247	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF	Energy production and conversion	Undefined
+VNG_2321G	RimL	COG1670	Protein N-acetyltransferase, RimJ/RimL family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2322G	HemB	COG0113	Delta-aminolevulinic acid dehydratase, porphobilinogen synthase	Coenzyme transport and metabolism	Heme biosynthesis
+VNG_2326G	HemL	COG0001	Glutamate-1-semialdehyde aminotransferase	Coenzyme transport and metabolism	Heme biosynthesis
+VNG_2330G	HemC	COG0181	Porphobilinogen deaminase	Coenzyme transport and metabolism	Heme biosynthesis
+VNG_2331G	CysG	COG0007	Uroporphyrinogen-III methylase (siroheme synthase)	Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis
+VNG_2332G	HemD	COG1587	Uroporphyrinogen-III synthase	Coenzyme transport and metabolism	Heme biosynthesis
+VNG_2333C	RecJ	COG0608	ssDNA-specific exonuclease RecJ, DHH superfamily, may be involved in archaeal DNA replication intiation	Replication, recombination and repair	Undefined
+VNG_2334C	PAS|GAF	COG2202|COG2203	PAS domain|GAF domain	Signal transduction mechanisms	Undefined
+VNG_2337C	NifU	COG0694	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2338G	PolC	COG1933	Archaeal DNA polymerase II, large subunit	Replication, recombination and repair	Undefined
+VNG_2339C	AF0104	COG1661	Predicted DNA-binding protein with PD1-like DNA-binding motif, PPC/DUF296 domain	General function prediction only	Undefined
+VNG_2343G	AppF	COG4608	ABC-type oligopeptide transport system, ATPase component	Amino acid transport and metabolism	Undefined
+VNG_2344G	DppD	COG0444	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	Amino acid transport and metabolism	Undefined
+VNG_2347G	DppB	COG0601	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	Amino acid transport and metabolism	Undefined
+VNG_2352G	GRS1	COG0423	Glycyl-tRNA synthetase, class II	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2353H	SEC59	COG0170	Dolichol kinase	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2356G	MPH1|MUS81	COG1111|COG1948	ERCC4-related helicase|ERCC4-type crossover junction endonuclease	Replication, recombination and repair	Undefined
+VNG_2358G	DdpA	COG0747	ABC-type transport system, periplasmic component	Amino acid transport and metabolism	Undefined
+VNG_2359G	DppB	COG0601	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	Amino acid transport and metabolism	Undefined
+VNG_2361G	DppC	COG1173	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	Amino acid transport and metabolism	Undefined
+VNG_2363G	DppD	COG0444	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	Amino acid transport and metabolism	Undefined
+VNG_2365G	DppD	COG0444	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component	Amino acid transport and metabolism	Undefined
+VNG_2366C	Undefined	COG1645	Uncharacterized Zn-finger containing protein, UPF0148 family	General function prediction only	Undefined
+VNG_2367G	Mdh	COG0039	Malate/lactate dehydrogenase	Energy production and conversion	TCA cycle
+VNG_2368G	BRR2	COG1204	Replicative superfamily II helicase	Replication, recombination and repair	Undefined
+VNG_2370C	Fer	COG1141	Ferredoxin	Energy production and conversion	Undefined
+VNG_2371C	PurO	COG3363	Archaeal IMP cyclohydrolase	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_2372G	YfcE	COG0622	Predicted phosphodiesterase, calcineurin family	General function prediction only	Undefined
+VNG_2373G	TnaA	COG3033	Tryptophanase	Amino acid transport and metabolism	Undefined
+VNG_2374G	MetL1	COG0527	Aspartate kinase	Amino acid transport and metabolism	Lysine biosynthesis
+VNG_2377G	NosY	COG1277	ABC-type transport system involved in multi-copper enzyme maturation, permease component	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2378G	CcmA	COG1131	ABC-type multidrug transport system, ATPase component	Defense mechanisms	Undefined
+VNG_2381G	UvrC	COG0322	Excinuclease UvrABC, nuclease subunit	Replication, recombination and repair	Undefined
+VNG_2383G	NrdB	COG0208	Ribonucleotide reductase beta subunit, ferritin-like domain	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_2384G	NrdA	COG0209	Ribonucleotide reductase alpha subunit	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_2386C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_2390G	UvrB	COG0556	Excinuclease UvrABC helicase subunit UvrB	Replication, recombination and repair	Undefined
+VNG_2393G	SseA	COG2897	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	Inorganic ion transport and metabolism	Undefined
+VNG_2394G	SseA	COG2897	3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains	Inorganic ion transport and metabolism	Undefined
+VNG_2395C	TbpA	COG4143	ABC-type thiamine transport system, periplasmic component TbpA	Coenzyme transport and metabolism	Undefined
+VNG_2396G	FbpB	COG1178	ABC-type Fe3+ transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_2397G	PotA	COG3842	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component	Amino acid transport and metabolism	Undefined
+VNG_2404G	NorM	COG0534	Na+-driven multidrug efflux pump, DinF/NorM/MATE family	Defense mechanisms	Undefined
+VNG_2408C	Undefined	COG3365	Uncharacterized conserved protein, DUF2073 family	Function unknown	Undefined
+VNG_2410G	Gem1	COG1100	GTPase SAR1 family domain	General function prediction only	Undefined
+VNG_2411G	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_2416G	LepB	COG0681	Signal peptidase I	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2417G	HYS2	COG1311	Archaeal DNA polymerase II, small subunit/DNA polymerase delta, subunit B	Replication, recombination and repair	Undefined
+VNG_2418G	PucG	COG0075	Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG	Amino acid transport and metabolism	Serine biosynthesis
+VNG_2420G	MET2	COG2021	Homoserine O-acetyltransferase	Amino acid transport and metabolism	Methionine biosynthesis
+VNG_2421G	MET17	COG2873	O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent	Amino acid transport and metabolism	Methionine biosynthesis
+VNG_2422G	GlpC|GlcD	COG0247|COG0277	Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF|FAD/FMN-containing lactate dehydrogenase/glycolate oxidase	Energy production and conversion	Undefined
+VNG_2423G	SerB	COG0560	Phosphoserine phosphatase	Amino acid transport and metabolism	Serine biosynthesis
+VNG_2424G	SerA	COG0111	Phosphoglycerate dehydrogenase or related dehydrogenase	Coenzyme transport and metabolism	Serine biosynthesis
+VNG_2426G	YciA	COG1607	Acyl-CoA hydrolase	Lipid transport and metabolism	Undefined
+VNG_2429G	AraJ	COG2814	Predicted arabinose efflux permease AraJ, MFS family	Carbohydrate transport and metabolism	Undefined
+VNG_2430G	ThrC	COG0498	Threonine synthase	Amino acid transport and metabolism	Threonine biosynthesis
+VNG_2432C	YbjQ	COG0393	Uncharacterized pentameric protein YbjQ, UPF0145 family	Function unknown	Undefined
+VNG_2436G	ArgH	COG0165	Argininosuccinate lyase	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_2437G	ArgG	COG0137	Argininosuccinate synthase	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_2440H	ThpR	COG1514	RNA 2',3'-cyclic phosphodiesterase (2'-5' RNA ligase)	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2441G	DinG	COG1199	Rad3-related DNA helicase DinG	Replication, recombination and repair	Undefined
+VNG_2443G	Dps	COG0783	DNA-binding ferritin-like protein (oxidative damage protectant)	Inorganic ion transport and metabolism	Undefined
+VNG_2444C	YfcE	COG0622	Predicted phosphodiesterase, calcineurin family	General function prediction only	Undefined
+VNG_2447G	GLY1	COG2008	Threonine aldolase	Amino acid transport and metabolism	Undefined
+VNG_2449G	AmpS	COG2309	Leucyl aminopeptidase (aminopeptidase T)	Amino acid transport and metabolism	Undefined
+VNG_2452C	CoaE	COG0237	Dephospho-CoA kinase	Coenzyme transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_2454C	Undefined	COG1931	Predicted RNA binding protein with dsRBD fold, UPF0201 family	General function prediction only	Undefined
+VNG_2455C	Undefined	COG3366	Uncharacterized membrane protein	Function unknown	Undefined
+VNG_2456C	MgtE2	COG1824	Permease, similar to cation transporters	Inorganic ion transport and metabolism	Undefined
+VNG_2458C	MgtE2	COG1824	Permease, similar to cation transporters	Inorganic ion transport and metabolism	Undefined
+VNG_2459G	Ffh	COG0541	Signal recognition particle GTPase	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2462G	FtsY	COG0552	Signal recognition particle GTPase FtsY	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2466a	TIF6	COG1976	Translation initiation factor 6 (eIF-6)	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_2467G	RPL31A	COG2097	Ribosomal protein L31E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_2469G	RPL39	COG2167	Ribosomal protein L39E	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_2470C	Undefined	COG2412	Uncharacterized conserved protein, DUF424 domain	Function unknown	Undefined
+VNG_2471G	CsdA	COG0520	Selenocysteine lyase/Cysteine desulfurase	Amino acid transport and metabolism	Undefined
+VNG_2472G	IscU	COG0822	Fe-S cluster assembly scaffold protein IscU, NifU family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2473G	RecA	COG0468	RecA/RadA recombinase	Replication, recombination and repair	Undefined
+VNG_2474C	NMD3	COG1499	NMD protein affecting ribosome stability and mRNA decay	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2475C	Trm5	COG2520	tRNA G37 N-methylase Trm5	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_2476C	DinG	COG1199	Rad3-related DNA helicase DinG	Replication, recombination and repair	Undefined
+VNG_2480H	PhoU	COG0704	Phosphate uptake regulator PhoU	Inorganic ion transport and metabolism	Undefined
+VNG_2482G	PstB	COG1117	ABC-type phosphate transport system, ATPase component	Inorganic ion transport and metabolism	Undefined
+VNG_2484G	PstC	COG0573	ABC-type phosphate transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_2486G	PstS	COG0226	ABC-type phosphate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_2488C	YbjT	COG0702	Uncharacterized conserved protein YbjT, contains NAD(P)-binding and DUF2867 domains	General function prediction only	Undefined
+VNG_2493C	YciV	COG0613	5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain	Nucleotide transport and metabolism	Undefined
+VNG_2499G	CaiA	COG1960	Acyl-CoA dehydrogenase related to the alkylation response protein AidB	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_2501C	GuaA1	COG0518	GMP synthase, glutamine amidotransferase domain	Nucleotide transport and metabolism	Purine biosynthesis
+VNG_2502C	YdhJ	COG1078	HD superfamily phosphohydrolase	General function prediction only	Undefined
+VNG_2504G	PheS	COG0016	Phenylalanyl-tRNA synthetase alpha subunit	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2507G	PyrD	COG0167	Dihydroorotate dehydrogenase	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_2512G	YSH1	COG1236	RNA processing exonuclease, beta-lactamase fold, Cft2 family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2513G	AdhE	COG1012	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase	Lipid transport and metabolism	Proline degradation
+VNG_2514G	RPS6A	COG2125	Ribosomal protein S6E (S10)	Translation, ribosomal structure and biogenesis	Archaeal ribosomal proteins
+VNG_2516C	RbsK	COG0524	Sugar or nucleoside kinase, ribokinase family	Carbohydrate transport and metabolism	Glycolysis
+VNG_2518C	BtpA	COG0434	Membrane biogenesis protein, BtpA/SgcQ family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_2519H	DhhP	COG2404	Oligoribonuclease NrnA/c-di-AMP phosphodiesterase DhhP, DHH superfamily	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2520C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_2522C	RimI	COG0456	Ribosomal protein S18 acetylase RimI and related acetyltransferases	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2523H	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_2526G	YejF	COG4172	ABC-type microcin C transport system, duplicated ATPase component YejF	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_2527G	DdpA	COG0747	ABC-type transport system, periplasmic component	Amino acid transport and metabolism	Undefined
+VNG_2529G	DppB	COG0601	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	Amino acid transport and metabolism	Undefined
+VNG_2531G	DppC	COG1173	ABC-type dipeptide/oligopeptide/nickel transport system, permease component	Amino acid transport and metabolism	Undefined
+VNG_2533G	AllB	COG0044	Dihydroorotase or related cyclic amidohydrolase	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_2535H	Undefined	COG3431	Uncharacterized membrane protein, DUF373 family	Function unknown	Undefined
+VNG_2536C	LplA	COG0095	Lipoate-protein ligase A	Coenzyme transport and metabolism	Lipoate biosynthesis
+VNG_2537G	PncA	COG1335	Nicotinamidase-related amidase	Coenzyme transport and metabolism	Pyrimidine degradation
+VNG_2541C	PncB	COG1488	Nicotinic acid phosphoribosyltransferase	Coenzyme transport and metabolism	NAD biosynthesis
+VNG_2543C	AMMECR1	COG2078	Predicted RNA modification protein, AMMECR1 domain	General function prediction only	Undefined
+VNG_2546G	AmpS	COG2309	Leucyl aminopeptidase (aminopeptidase T)	Amino acid transport and metabolism	Undefined
+VNG_2547G	ValS	COG0525	Valyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_2549C	FepB	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_2551G	FepD	COG0609	ABC-type Fe3+-siderophore transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_2552G	FepC	COG1120	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	Inorganic ion transport and metabolism	Undefined
+VNG_2553G	YqeC	COG1023	6-phosphogluconate dehydrogenase (decarboxylating)	Carbohydrate transport and metabolism	Undefined
+VNG_2555C	Fdx	COG0633	Ferredoxin	Energy production and conversion	Undefined
+VNG_2558G	FepC	COG1120	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component	Inorganic ion transport and metabolism	Undefined
+VNG_2560G	FepD	COG0609	ABC-type Fe3+-siderophore transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_2562H	FepB	COG0614	ABC-type Fe3+-hydroxamate transport system, periplasmic component	Inorganic ion transport and metabolism	Undefined
+VNG_2565G	TrkG	COG0168	Trk-type K+ transport system, membrane component	Inorganic ion transport and metabolism	Undefined
+VNG_2567C	FlaG	COG3354	Archaellum component FlaG, FlaF/FlaG flagellin family	Cell motility	Undefined
+VNG_2570G	Dcd	COG0717	dCTP deaminase	Nucleotide transport and metabolism	Thymidylate biosynthesis
+VNG_2574G	AcnA	COG1048	Aconitase A	Energy production and conversion	Lysine biosynthesisTCA cycle
+VNG_2575G	RimI	COG0456	Ribosomal protein S18 acetylase RimI and related acetyltransferases	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2579G	MntR	COG1321	Mn-dependent transcriptional regulator MntR, DtxR family	Transcription	Undefined
+VNG_2581H	CopZ	COG2608	Copper chaperone CopZ	Inorganic ion transport and metabolism	Undefined
+VNG_2582H	PspE	COG0607	Rhodanese-related sulfurtransferase	Inorganic ion transport and metabolism	Urea cycle
+VNG_2584C	SUI1	COG0023	Translation initiation factor 1 (eIF-1/SUI1)	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_2586C	CofE	COG1478	F420-0:Gamma-glutamyl ligase (F420 biosynthesis)	Coenzyme transport and metabolism	Undefined
+VNG_2587C	EngB	COG0218	GTP-binding protein EngB required for normal cell division	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_2589C	YggE	COG2968	Uncharacterized conserved protein YggE, contains kinase-interacting SIMPL domain	Function unknown	Undefined
+VNG_2591C	AF0785	COG1808	Uncharacterized membrane protein AF0785, contains DUF389 domain	Function unknown	Undefined
+VNG_2595G	Nog1	COG1084	GTP-binding protein, GTP1/Obg family	General function prediction only	Undefined
+VNG_2596G	HisI2	COG0140	Phosphoribosyl-ATP pyrophosphohydrolase	Amino acid transport and metabolism	Histidine biosynthesis
+VNG_2597C	Undefined	COG1259	Bifunctional DNase/RNase	General function prediction only	Undefined
+VNG_2598G	PdxT	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT (glutamine amidotransferase)	Coenzyme transport and metabolism	Pyridoxal phosphate biosynthesis
+VNG_2599H	SBH1	COG4023	Preprotein translocase subunit SecG (Sec61beta)	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2602G	CitT	COG0471	Di- and tricarboxylate antiporter	Carbohydrate transport and metabolism	Undefined
+VNG_2604G	THI4	COG1635	Thiazole synthase/Archaeal ribulose 1,5-bisphosphate synthetase	Carbohydrate transport and metabolism	Undefined
+VNG_2606G	ThiD|Undefined	COG0351|COG1992	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase|Predicted transcriptional regulator fused phosphomethylpyrimidine kinase (thiamin biosynthesis)	Coenzyme transport and metabolism|General function prediction only	Thiamine biosynthesis|Undefined
+VNG_2607C	Undefined	COG2085	Predicted dinucleotide-binding enzyme	General function prediction only	Undefined
+VNG_2608a	MTH1000	COG1255	Predicted small methyltransferase MTH1000, UPF0146 family	General function prediction only	Undefined
+VNG_2608C	Gph	COG0546	Phosphoglycolate phosphatase, HAD superfamily	Energy production and conversion	Undefined
+VNG_2610C	Undefined	COG1913	Predicted Zn-dependent protease	General function prediction only	Undefined
+VNG_2611G	HflX	COG2262	50S ribosomal subunit-associated GTPase HflX	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2612G	Rli1	COG1245	Translation initiation factor RLI1, contains Fe-S and AAA+ ATPase domains	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2615C	PilT	COG1855	Predicted ATPase, PilT family, contains N-terminal PIN domain	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2616G	YpwA	COG2317	Zn-dependent carboxypeptidase, M32 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2617G	Tdh	COG1063	Threonine dehydrogenase or related Zn-dependent dehydrogenase	Amino acid transport and metabolism	Non-phosphorylated Entner-Doudoroff pathway
+VNG_2620G	UvrD	COG0210	Superfamily I DNA or RNA helicase	Replication, recombination and repair	Undefined
+VNG_2624G	RibC	COG0307	Riboflavin synthase alpha chain	Coenzyme transport and metabolism	Riboflavin/FAD biosynthesis
+VNG_2625C	PrsW	COG2339	Membrane proteinase PrsW, cleaves anti-sigma factor RsiW, M82 family	Signal transduction mechanisms	Undefined
+VNG_2627C	CafA	COG1530	Ribonuclease G or E	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2628H	NifU	COG0694	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_2629G	NagC	COG1940	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain	Carbohydrate transport and metabolism	Undefined
+VNG_2631H	AIM24	COG2013	AIM24 protein, required for mitochondrial respiration	Energy production and conversion	Undefined
+VNG_2632G	FabG	COG1028	NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family	Lipid transport and metabolism	Fatty acid biosynthesis
+VNG_2636G	UvrA	COG0178	Excinuclease UvrABC ATPase subunit	Replication, recombination and repair	Undefined
+VNG_2638G	FixC	COG0644	Dehydrogenase (flavoprotein)	Energy production and conversion	Undefined
+VNG_2639G	WecB	COG0381	UDP-N-acetylglucosamine 2-epimerase	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_2640G	GcvT	COG0404	Glycine cleavage system protein T (aminomethyltransferase)	Amino acid transport and metabolism	Glycine cleavage
+VNG_2644a	Undefined	COG3342	Uncharacterized conserved protein, Ntn-hydrolase superfamily	General function prediction only	Undefined
+VNG_2644C	SepFarc	COG2450	Predicted archaeal cell division protein, SepF family	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_2646C	Tma20	COG2016	Predicted ribosome-associated RNA-binding protein Tma20, contains PUA domain	Translation, ribosomal structure and biogenesis	Undefined
+VNG_2648G	RpsJ	COG0051	Ribosomal protein S10	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_2649G	TEF1	COG5256	Translation elongation factor EF-1alpha (GTPase)	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_2650a	Undefined	COG2061	Uncharacterized conserved protein, contains ACT domain	General function prediction only	Undefined
+VNG_2650G	ThrA	COG0460	Homoserine dehydrogenase	Amino acid transport and metabolism	Methionine biosynthesis
+VNG_2652H	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_2653C	RAYT	COG1943	REP element-mobilizing transposase RayT	Mobilome: prophages, transposons	Undefined
+VNG_2654G	FusA	COG0480	Translation elongation factor EF-G, a GTPase	Translation, ribosomal structure and biogenesis	Translation factors
+VNG_2657G	RpsG	COG0049	Ribosomal protein S7	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_2658G	RpsL	COG0048	Ribosomal protein S12	Translation, ribosomal structure and biogenesis	Ribosome 30S subunit
+VNG_2664G	RpoC	COG0086	DNA-directed RNA polymerase, beta' subunit/160 kD subunit	Transcription	RNA polymerase
+VNG_2669G	Undefined	COG4083	Exosortase/Archaeosortase	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_2675C	AcrR	COG1309	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA	Transcription	Undefined
+VNG_6144G	VirB4	COG3451	Type IV secretory pathway, VirB4 component	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_6148H	InsG	COG3385	IS4 transposase InsG	Mobilome: prophages, transposons	Undefined
+VNG_6153G	ParA	COG1192	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_6164G	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_6166H	Undefined	COG2402	Predicted nucleic acid-binding protein, contains PIN domain	General function prediction only	Undefined
+VNG_6175G	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_6176G	KdpA	COG2060	K+-transporting ATPase, KdpA subunit	Inorganic ion transport and metabolism	Undefined
+VNG_6177G	KdpB	COG2216	K+ transport ATPase, ATPase subunit KdpB	Inorganic ion transport and metabolism	Undefined
+VNG_6178G	KdpC	COG2156	K+-transporting ATPase, KdpC subunit	Inorganic ion transport and metabolism	Undefined
+VNG_6179G	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_6181H	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_6182H	RAYT	COG1943	REP element-mobilizing transposase RayT	Mobilome: prophages, transposons	Undefined
+VNG_6183C	NrnA	COG0618	nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs	Nucleotide transport and metabolism	Undefined
+VNG_6199G	SpoVK	COG0464	AAA+-type ATPase, SpoVK/Ycf46/Vps4 family	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_6201G	IbpA	COG0071	Small heat shock protein IbpA, HSP20 family	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_6205C	UspA	COG0589	Nucleotide-binding universal stress protein,  UspA family	Signal transduction mechanisms	Undefined
+VNG_6210G	ArgD	COG0160	Acetylornithine aminotransferase/4-aminobutyrate aminotransferase	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_6211G	GadA	COG0076	Glutamate or tyrosine decarboxylase or a related PLP-dependent protein	Amino acid transport and metabolism	Pantothenate/CoA biosynthesis
+VNG_6212G	IucA	COG4264	Siderophore synthetase component IucA/IucC/SbnC	Inorganic ion transport and metabolism	Undefined
+VNG_6213G	RimL	COG1670	Protein N-acetyltransferase, RimJ/RimL family	Translation, ribosomal structure and biogenesis	Undefined
+VNG_6214G	IucD	COG3486	Lysine/ornithine N-monooxygenase	Secondary metabolites biosynthesis, transport and catabolism	Undefined
+VNG_6216G	IucA	COG4264	Siderophore synthetase component IucA/IucC/SbnC	Inorganic ion transport and metabolism	Undefined
+VNG_6218G	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_6220G	PotE	COG0531	Serine transporter YbeC, amino acid:H+ symporter family	Amino acid transport and metabolism	Undefined
+VNG_6221H	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_6223C	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_6239G	PadR	COG1695	DNA-binding transcriptional regulator, PadR family	Transcription	Undefined
+VNG_6240G	RAD55	COG0467	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	Signal transduction mechanisms	Undefined
+VNG_6244G	MoxR	COG0714	MoxR-like ATPase	General function prediction only	Cobalamine/B12 biosynthesis
+VNG_6247G	TrkA	COG0569	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain	Inorganic ion transport and metabolism	Undefined
+VNG_6251H	TM0315	COG3462	Uncharacterized protein, contains short C-terminal (SHOCT) domain	Function unknown	Undefined
+VNG_6254C	YgiN	COG1359	Quinol monooxygenase YgiN	Energy production and conversion	Undefined
+VNG_6256G	LplA	COG0095	Lipoate-protein ligase A	Coenzyme transport and metabolism	Lipoate biosynthesis
+VNG_6258C	SsnA	COG0402	Cytosine/adenosine deaminase or related metal-dependent hydrolase	Nucleotide transport and metabolism	Pyrimidine salvage
+VNG_6260G	FtsZ	COG0206	Cell division GTPase FtsZ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_6261G	YocR	COG0733	Na+-dependent transporter, SNF family	General function prediction only	Undefined
+VNG_6262G	ZnuB	COG1108	ABC-type Mn2+/Zn2+ transport system, permease component	Inorganic ion transport and metabolism	Undefined
+VNG_6264G	ZnuC	COG1121	ABC-type Mn2+/Zn2+ transport system, ATPase component	Inorganic ion transport and metabolism	Undefined
+VNG_6265G	ZnuA	COG0803	ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA	Inorganic ion transport and metabolism	Undefined
+VNG_6268C	OPT	COG1297	Predicted oligopeptide transporter, OPT family	General function prediction only	Undefined
+VNG_6270G	GldA	COG0371	Glycerol dehydrogenase or related enzyme, iron-containing ADH family	Energy production and conversion	Isoprenoid biosynthesis
+VNG_6272G	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_6275a	NifU	COG0694	Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_6277G	UgpB	COG1653	ABC-type glycerol-3-phosphate transport system, periplasmic component	Carbohydrate transport and metabolism	Undefined
+VNG_6279G	UgpA	COG1175	ABC-type sugar transport system, permease component	Carbohydrate transport and metabolism	Undefined
+VNG_6280G	UgpE	COG0395	ABC-type glycerol-3-phosphate transport system, permease component	Carbohydrate transport and metabolism	Undefined
+VNG_6281G	MalK	COG3839	ABC-type sugar transport system, ATPase component MalK	Carbohydrate transport and metabolism	Undefined
+VNG_6288a	RelE	COG2026	mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system	Defense mechanisms	Undefined
+VNG_6288C	StbD	COG2161	Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family	Defense mechanisms	Undefined
+VNG_6292C	Rve	COG3316	Transposase (or an inactivated derivative), DDE domain	Mobilome: prophages, transposons	Undefined
+VNG_6293C	RhaT	COG0697	Permease of the drug/metabolite transporter (DMT) superfamily	Carbohydrate transport and metabolism	Undefined
+VNG_6294G	KatG	COG0376	Catalase (peroxidase I)	Inorganic ion transport and metabolism	Undefined
+VNG_6296C	MenH	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold	Coenzyme transport and metabolism	Menaquinone biosynthesis
+VNG_6297C	PQQ	COG1520	Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat	Cell wall/membrane/envelope biogenesis	Undefined
+VNG_6298C	YdiF	COG4670	Acyl CoA:acetate/3-ketoacid CoA transferase	Lipid transport and metabolism	Undefined
+VNG_6299G	HypE	COG0309	Carbamoyl dehydratase HypE (hydrogenase maturation factor)	Posttranslational modification, protein turnover, chaperones	Undefined
+VNG_6301G	PhoA	COG1785	Alkaline phosphatase	Inorganic ion transport and metabolism	Folate biosynthesis
+VNG_6302C	TlyC	COG1253	Hemolysin-related protein, contains CBS domains, UPF0053 family	General function prediction only	Undefined
+VNG_6303G	QueC	COG0603	7-cyano-7-deazaguanine synthase (queuosine biosynthesis)	Translation, ribosomal structure and biogenesis	tRNA modification
+VNG_6305C	QueE	COG0602	Organic radical activating enzyme NrdG/QueE	Coenzyme transport and metabolism	tRNA modification
+VNG_6306C	QueD	COG0720	6-pyruvoyl-tetrahydropterin synthase	Coenzyme transport and metabolism	tRNA modification
+VNG_6308G	GltP	COG1301	Na+/H+-dicarboxylate symporter	Energy production and conversion	Undefined
+VNG_6309G	PyrB	COG0540	Aspartate carbamoyltransferase, catalytic subunit	Nucleotide transport and metabolism	Pyrimidine biosynthesis
+VNG_6311G	PyrI	COG1781	Aspartate carbamoyltransferase, regulatory subunit	Nucleotide transport and metabolism	Undefined
+VNG_6312G	ArgS	COG0018	Arginyl-tRNA synthetase	Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases
+VNG_6313G	NhaC	COG1757	Na+/H+ antiporter NhaC/MleN	Energy production and conversion	Undefined
+VNG_6315G	ArgF	COG0078	Ornithine carbamoyltransferase	Amino acid transport and metabolism	Arginine biosynthesis
+VNG_6316G	ArcC	COG0549	Carbamate kinase	Amino acid transport and metabolism	Undefined
+VNG_6317G	ArcA	COG2235	Arginine deiminase	Amino acid transport and metabolism	Undefined
+VNG_6318G	IclR	COG1414	DNA-binding transcriptional regulator, IclR family	Transcription	Undefined
+VNG_6326G	CcmA	COG1131	ABC-type multidrug transport system, ATPase component	Defense mechanisms	Undefined
+VNG_6327e	InsG	COG3385	IS4 transposase InsG	Mobilome: prophages, transposons	Undefined
+VNG_6337G	ParA	COG1192	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_6349C	Undefined	COG3177	Fic family protein	Transcription	Undefined
+VNG_6351G	SUA7	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	Transcription	Undefined
+VNG_6354G	ComEC	COG2333	DNA uptake channel protein ComEC C-terminal domain, metallo-beta-lactamase superfamily	Intracellular trafficking, secretion, and vesicular transport	Undefined
+VNG_6361G	InsQ	COG0675	Transposase	Mobilome: prophages, transposons	Undefined
+VNG_6362G	PolB	COG0417	DNA polymerase B elongation subunit	Replication, recombination and repair	Undefined
+VNG_6368a	Undefined	COG2402	Predicted nucleic acid-binding protein, contains PIN domain	General function prediction only	Undefined
+VNG_6371G	Mrr	COG1715	Restriction endonuclease Mrr	Defense mechanisms	Undefined
+VNG_6379C	LutB	COG1139	L-lactate utilization protein LutB, contains a ferredoxin-type domain	Energy production and conversion	Undefined
+VNG_6381H	LutC	COG1556	L-lactate utilization protein LutC, contains LUD domain	Energy production and conversion	Undefined
+VNG_6383G	LldP	COG1620	L-lactate permease	Energy production and conversion	Undefined
+VNG_6387H	AbrB	COG2002	Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module	Transcription	Undefined
+VNG_6389G	SUA7	COG1405	Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB	Transcription	Undefined
+VNG_6396H	Undefined	COG2402	Predicted nucleic acid-binding protein, contains PIN domain	General function prediction only	Undefined
+VNG_6408G	YHI9	COG0384	Predicted epimerase YddE/YHI9, PhzF superfamily	General function prediction only	Undefined
+VNG_6430C	Rve	COG3316	Transposase (or an inactivated derivative), DDE domain	Mobilome: prophages, transposons	Undefined
+VNG_6437C	Undefined	COG3269	Predicted RNA-binding protein, contains TRAM domain	General function prediction only	Undefined
+VNG_6438G	SPT15	COG2101	TATA-box binding protein (TBP), component of TFIID and TFIIIB	Transcription	Undefined
+VNG_6441H	Undefined	COG3430	Archaeal flagellin (archaellin), FlaG/FlaF family	Cell motility	Undefined
+VNG_7001	Undefined	COG4190	Predicted transcriptional regulator, contains HTH domain	Transcription	Undefined
+VNG_7005	InsG	COG3385	IS4 transposase InsG	Mobilome: prophages, transposons	Undefined
+VNG_7007	XRE	COG1476	DNA-binding transcriptional regulator, XRE-family HTH domain	Transcription	Undefined
+VNG_7023	PadR	COG1695	DNA-binding transcriptional regulator, PadR family	Transcription	Undefined
+VNG_7024	RAD55	COG0467	RecA-superfamily ATPase, KaiC/GvpD/RAD55 family	Signal transduction mechanisms	Undefined
+VNG_7027	MoxR	COG0714	MoxR-like ATPase	General function prediction only	Cobalamine/B12 biosynthesis
+VNG_7029	ParA	COG1192	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_7030	CheY|PAS	COG0784|COG2202	CheY-like REC (receiver) domain, includes chemotaxis protein CheY  and sporulation regulator Spo0F|PAS domain	Signal transduction mechanisms	Undefined
+VNG_7034	IS5	COG3039	Transposase and inactivated derivatives, IS5 family	Mobilome: prophages, transposons	Undefined
+VNG_7038	SPT15	COG2101	TATA-box binding protein (TBP), component of TFIID and TFIIIB	Transcription	Undefined
+VNG_7039	AppC	COG1271	Cytochrome bd-type quinol oxidase, subunit 1	Energy production and conversion	Undefined
+VNG_7040	AppB	COG1294	Cytochrome bd-type quinol oxidase, subunit 2	Energy production and conversion	Undefined
+VNG_7041	YrkE	COG2210	Peroxiredoxin family protein	Energy production and conversion	Undefined
+VNG_7042	TusA	COG0425	Sulfur carrier protein TusA (tRNA thiolation, molybdenum cofactor biosynthesis)	Translation, ribosomal structure and biogenesis	Undefined
+VNG_7043	GloB|PspE	COG0491|COG0607	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II|Rhodanese-related sulfurtransferase	General function prediction only|Inorganic ion transport and metabolism	Undefined|Urea cycle
+VNG_7046	YedE	COG2391	Uncharacterized membrane protein YedE/YeeE, contains two sulfur transport domains	General function prediction only	Undefined
+VNG_7047	PitA	COG0306	Phosphate/sulfate permease	Inorganic ion transport and metabolism	Undefined
+VNG_7048	DmsR	COG3413	Predicted transcriptional regulator, contains HTH domain	General function prediction only	Undefined
+VNG_7049	GloB|PspE	COG0491|COG0607	Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II|Rhodanese-related sulfurtransferase	General function prediction only|Inorganic ion transport and metabolism	Undefined|Urea cycle
+VNG_7051	AraJ	COG2814	Predicted arabinose efflux permease AraJ, MFS family	Carbohydrate transport and metabolism	Undefined
+VNG_7052	TauE	COG0730	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family	Inorganic ion transport and metabolism	Undefined
+VNG_7053	Undefined	COG3355	Predicted transcriptional regulator	Transcription	Undefined
+VNG_7056	XerD	COG4974	Site-specific recombinase XerD	Replication, recombination and repair	Undefined
+VNG_7060	LldD	COG1304	FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase	Energy production and conversion	Isoprenoid biosynthesis
+VNG_7065	ParA	COG1192	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_7066	Undefined	COG2253	Predicted nucleotidyltransferase component of viral defense system	Defense mechanisms	Undefined
+VNG_7067	AbiEi	COG5340	Abortive phage infection protein AbiEi, antitoxin conponent of an AbiEi-AbiEii TA system	Defense mechanisms	Undefined
+VNG_7069	Undefined	COG3269	Predicted RNA-binding protein, contains TRAM domain	General function prediction only	Undefined
+VNG_7070	CDC6	COG1474	Cdc6-related protein, AAA superfamily ATPase	Replication, recombination and repair	Undefined
+VNG_7072	SRAP	COG2135	ssDNA abasic site-binding protein YedK/HMCES, SRAP family	Replication, recombination and repair	Undefined
+VNG_7073	Undefined	COG3472	Uncharacterized conserved protein domain, often C-terminal to DUF262	Function unknown	Undefined
+VNG_7087	ParA	COG1192	ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ	Cell cycle control, cell division, chromosome partitioning	Undefined
+VNG_7092	Undefined	COG3372	Predicted nuclease of restriction endonuclease-like (RecB) superfamily, implicated in nucleotide excision repair	General function prediction only	Undefined
+VNG_7093	SSL2	COG1061	Superfamily II DNA or RNA helicase	Transcription	Undefined
+VNG_7100	SPT15	COG2101	TATA-box binding protein (TBP), component of TFIID and TFIIIB	Transcription	Undefined
+VNG_7114	SPT15	COG2101	TATA-box binding protein (TBP), component of TFIID and TFIIIB	Transcription	Undefined
+VNG_7115	YfbR	COG1896	5'-deoxynucleotidase YfbR and related HD superfamily hydrolases	Nucleotide transport and metabolism	Undefined
+VNG_7117a	NimA	COG3467	Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily	Defense mechanisms	Undefined
+VNG_7119	InsG	COG3385	IS4 transposase InsG	Mobilome: prophages, transposons	Undefined
+VNG_7122b	YlbF	COG3679	Cell fate regulator YlbF, YheA/YmcA/DUF963 family (controls sporulation, competence, biofilm development)	Signal transduction mechanisms	Undefined
+VNG_7123	ArsA	COG0003	Anion-transporting ATPase, ArsA/GET3 family	Inorganic ion transport and metabolism	Undefined
+VNG_7126	Wzb	COG0394	Protein-tyrosine-phosphatase	Signal transduction mechanisms	Undefined
+VNG_7134	RFA1	COG1599	ssDNA-binding replication factor A, large subunit	Replication, recombination and repair	Undefined
