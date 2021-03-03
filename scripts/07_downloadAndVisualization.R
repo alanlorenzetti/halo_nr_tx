@@ -1,7 +1,7 @@
 #' ---
 #' title: "_Halobacterium salinarum_ NRC-1 non-redundant transcriptome"
 #' author: "Alan Lorenzetti"
-#' date: "Mar 3rd, 2021"
+#' date: "March 3rd, 2021"
 #' ---
 #'
 #' Download the non-redundant (pseudo)transcriptome of _Halobacterium salinarum_ NRC-1 [here](https://alanlorenzetti.github.io/halo_nr_tx/data/Hsalinarum_nrtx.fa).  

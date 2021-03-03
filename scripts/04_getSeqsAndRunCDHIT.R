@@ -10,6 +10,10 @@
 genome = readDNAStringSet("data/Hsalinarum.fa")
 names(genome) = str_replace(names(genome), " .*$", "")
 
+# loading R1 genome file
+genomeR1 = readDNAStringSet("data/HsalinarumR1.fa")
+names(genomeR1) = str_replace(names(genomeR1), " .*$", "")
+
 # getting seqs ####
 arc = getGeneticCode(id_or_name2 = "11")
 seqs = list()
@@ -26,15 +30,21 @@ names(seqs[["ncbi"]][["rna"]]) = ncbiStableRNA$gr$locus_tag
 seqs[["ncbi"]][["cds"]] = BSgenome::getSeq(genome, ncbiCDS$gr)
 names(seqs[["ncbi"]][["cds"]]) = ncbiCDS$gr$locus_tag
 
+seqs[["R1"]][["rna"]] = BSgenome::getSeq(genomeR1, R1StableRNA$gr)
+names(seqs[["R1"]][["rna"]]) = R1StableRNA$gr$locus_tag
+
+seqs[["R1"]][["cds"]] = BSgenome::getSeq(genomeR1, R1CDS$gr)
+names(seqs[["R1"]][["cds"]]) = R1CDS$gr$locus_tag
+
 # unifying and saving stable rnas
-c(seqs$pfei$rna, seqs$ncbi$rna) %>% 
+c(seqs$pfei$rna, seqs$ncbi$rna, seqs$R1$rna) %>% 
   writeXStringSet(filepath = "data/stableRNAs.fa",
                   format = "fasta")
 
 # unifying and saving cds
-c(seqs$pfei$cds, seqs$ncbi$cds) %>% 
-  translate(x = ., genetic.code = arc) %>% 
-  c(., custCDS) %>% 
+seqvec1 = c(seqs$pfei$cds, seqs$ncbi$cds) %>% translate(x = ., genetic.code = arc)
+seqvec2 = seqs$R1$cds %>% translate(x = ., genetic.code = arc)
+c(seqvec1, custCDS, seqvec2) %>% 
   writeXStringSet(filepath = "data/cds.fa",
                   format = "fasta")
 

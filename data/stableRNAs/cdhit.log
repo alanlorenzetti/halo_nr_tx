@@ -5,14 +5,14 @@ Command:
          -i data/stableRNAs.fa -o data/stableRNAs/cdhitOut.fa
          -c 0.99 -M 1000 -T 8 -sc 1
 
-Started: Wed Mar  3 18:23:30 2021
+Started: Wed Mar  3 20:30:46 2021
 ================================================================
                             Output                              
 ----------------------------------------------------------------
 Option -T is ignored: multi-threading with OpenMP is NOT enabled!
-total seq: 104
+total seq: 151
 longest and shortest : 2914 and 71
-Total letters: 17906
+Total letters: 22016
 Sequences have been sorted
 
 Approximated minimal memory consumption:
@@ -23,16 +23,16 @@ Miscellaneous   : 0M
 Total           : 76M
 
 Table limit with the given memory limit:
-Max number of representatives: 1952806
-Max number of word counting entries: 115438676
+Max number of representatives: 3311048
+Max number of word counting entries: 115437217
 
-comparing sequences from          0  to        104
+comparing sequences from          0  to        151
 
-      104  finished         52  clusters
+      151  finished         52  clusters
 
 Approximated maximum memory consumption: 76M
 writing new database
 writing clustering information
 program completed !
 
-Total CPU time 0.07
+Total CPU time 0.08
