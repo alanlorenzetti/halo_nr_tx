@@ -1,6 +1,6 @@
 # Generating a non-redundant transcriptome for _Halobacterium salinarum_
 
-Some of _Halobacterium salinarum_ NRC-1 genes are repeated. Reducing it to a non-redundant set of genes can help simplifying analyses. Moreover, there have been several annotation efforts, causing a lot of pain to integrate findings from distinct studies due to non-standardized _locus_tags_.
+Some of _Halobacterium salinarum_ NRC-1 genes are repeated. Reducing it to a non-redundant set of genes can help simplifying analyses. Moreover, there have been several annotation efforts, causing a lot of pain to integrate findings from distinct studies due to non-standardized locus tags.
 
 This is an attempt to create a non-redundant (pseudo)transcriptome for _Halobacterium salinarum_ NRC-1 using as source the annotation released by [Pfeiffer et al. 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6624760/). A dictionary containing alternative locus_tag was also created using annotation provided by NCBI's RefSeq prokaryotic automatic annotation pipeline and a custom in-house file derived from the original annotation provided by [Ng et al. 2000](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17314/).
 
