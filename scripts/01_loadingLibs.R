@@ -18,4 +18,3 @@ packs = c("tidyverse",
 
 # loading libs
 p_load(char = packs)
-
