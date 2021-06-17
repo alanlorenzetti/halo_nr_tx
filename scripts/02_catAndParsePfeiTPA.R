@@ -24,6 +24,18 @@ pfeiAnnot = rtracklayer::import("data/pfeiTPA.gff3.tmp", format = "gff3") %>%
 #   unlist(use.names = F) %>% 
 #   as.character() %>% 
 #   unique()
+
+pfeiMob = list()
+pfeiMob[["annot"]] = pfeiAnnot %>% 
+  filter(type == "mobile_genetic_element")
+pfeiMob[["gr"]] = GRanges(seqnames = pfeiMob[["annot"]]$seqnames,
+                          ranges = IRanges(start = pfeiMob[["annot"]]$start,
+                                           end = pfeiMob[["annot"]]$end),
+                          strand = pfeiMob[["annot"]]$strand)
+pfeiMob[["gr"]]$locus_tag = str_replace(string = pfeiMob[["annot"]]$mobile_element_type,
+                                        pattern = ".*:",
+                                        replacement = "")
+
 pfeiStableRNA = list()
 pfeiStableRNA[["annot"]] = pfeiAnnot %>% 
   filter(type == "rRNA" | type == "tRNA" | type == "SRP_RNA" | type == "RNase_P_RNA")

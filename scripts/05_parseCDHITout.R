@@ -89,3 +89,49 @@ dict = dict[mixedorder(dict$representative),]
 write_tsv(x = dict,
           file = "data/dictionary.tsv",
           col_names = T)
+
+## adendum II
+# getting tables of custCDS and pfeiCDS
+# custCDSTbl = tibble(name = names(custCDS),
+#                     seqCust = as.character(custCDS, use.names = F))
+# 
+# pfeiCDSAA = seqs[["pfei"]][["cds"]] %>%
+#   translate(x = ., genetic.code = arc)
+# pfeiCDSTbl = tibble(name = names(pfeiCDSAA),
+#                     seqPfei = as.character(pfeiCDSAA, use.names = F))
+# pfeiCDSTbl$seqPfei = str_replace(string = pfeiCDSTbl$seqPfei,
+#                                  pattern = "\\*$",
+#                                  replacement = "")
+# 
+# dictWithSeqs = dict %>%
+#   separate_rows(sep = ",", locus_tag) %>% 
+#   left_join(x = ., y = custCDSTbl,
+#             by = c("locus_tag" = "name")) %>% 
+#   left_join(x = ., y = pfeiCDSTbl,
+#             by = c("locus_tag" = "name")) %>% 
+#   group_by(representative) %>% 
+#   summarise(product = c(product)[1],
+#             locus_tag = str_c(locus_tag, collapse = ","),
+#             seqCust = na.omit(seqCust) %>% as.character() %>% unique() %>% .[1],
+#             seqPfei = na.omit(seqPfei) %>% as.character() %>% unique() %>% .[1]) %>% 
+#   separate_rows(sep = ",", locus_tag) %>% 
+#   filter(str_detect(string = locus_tag, pattern = "VNG_|OE", negate = T)) %>% 
+#   group_by(representative) %>% 
+#   summarise(representative = c(locus_tag)[1],
+#             product = c(product)[1],
+#             locus_tag = str_c(locus_tag, collapse = ","),
+#             seqCust = c(seqCust)[1],
+#             seqPfei = c(seqPfei)[1])
+# 
+# write_tsv(x = dictWithSeqs,
+#           file = "data/custCDSTbl.tsv",
+#           col_names = T)
+# 
+# write_tsv(x = dictWithSeqs %>% 
+#             filter(str_detect(string = product,
+#                               pattern = "transposase|ISH2")) %>% 
+#             filter(str_detect(string = product,
+#                               pattern = "nonfunc",
+#                               negate = T)),
+#           file = "data/custCDSTbl_onlyTransposase.tsv")
+#           

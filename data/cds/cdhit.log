@@ -5,7 +5,7 @@ Command:
          -i data/cds.fa -o data/cds/cdhitOut.fa -c 0.95 -M 1000
          -T 8 -sc 1
 
-Started: Wed Mar  3 20:30:47 2021
+Started: Thu Jun 17 20:23:30 2021
 ================================================================
                             Output                              
 ----------------------------------------------------------------
@@ -361,7 +361,7 @@ RETVDVGGVFYAVGHTPNTRFLDETAVERDESGYIFTQADDVGRPTARTSVDGVFAAGDVADPRYRQAITSAGTGSMAAL
 DAEEFLETLRESDELTATATA
 total seq: 10804
 longest and shortest : 1400 and 20
-Total letters: 3024750
+Total letters: 3025360
 Sequences have been sorted
 
 Approximated minimal memory consumption:
@@ -372,8 +372,8 @@ Miscellaneous   : 0M
 Total           : 80M
 
 Table limit with the given memory limit:
-Max number of representatives: 1953793
-Max number of word counting entries: 114883040
+Max number of representatives: 1953791
+Max number of word counting entries: 114882964
 
 comparing sequences from          0  to      10804
 ....................    10000  finished       2528  clusters
@@ -385,4 +385,4 @@ writing new database
 writing clustering information
 program completed !
 
-Total CPU time 0.90
+Total CPU time 0.88

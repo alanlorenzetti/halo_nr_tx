@@ -32,7 +32,6 @@ VNG_0064G	RmlA1	COG1209	dTDP-glucose pyrophosphorylase	Cell wall/membrane/envelo
 VNG_0065G	WcaG	COG0451	Nucleoside-diphosphate-sugar epimerase	Cell wall/membrane/envelope biogenesis	Undefined
 VNG_0070H	RelE	COG2026	mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system	Defense mechanisms	Undefined
 VNG_0072H	Undefined	COG2402	Predicted nucleic acid-binding protein, contains PIN domain	General function prediction only	Undefined
-VNG_0080H	VanZ	COG5652	VanZ-like family protein (function unknown)	Function unknown	Undefined
 VNG_0081G	MoaE	COG0314	Molybdopterin synthase catalytic subunit MoaE	Coenzyme transport and metabolism	Molybdopterin biosynthesis
 VNG_0084G	ThiF	COG0476	Molybdopterin or thiamine biosynthesis adenylyltransferase	Coenzyme transport and metabolism	Molybdopterin biosynthesis
 VNG_0085G	MoaA	COG2896	GTP 3',8-cyclase (molybdenum cofactor biosynthesis protein MoaA)	Coenzyme transport and metabolism	Molybdopterin biosynthesis

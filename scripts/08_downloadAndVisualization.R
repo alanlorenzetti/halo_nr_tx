@@ -10,6 +10,8 @@
 #'
 #' Download the [COG (2020)](https://www.ncbi.nlm.nih.gov/research/cog) data for this non-redundant transcriptome [here](https://alanlorenzetti.github.io/halo_nr_tx/data/cog.tsv) or clicking on the buttons above the interactive table.  
 #'
+#' Download the insertion sequence classification for the non-redundant potentially functional CDS [here](https://alanlorenzetti.github.io/halo_nr_tx/data/is_info.tsv) or clicking on the buttons above the interactive table.
+#'
 #' ## Browsable tables {.tabset}
 #' ### Locus tag dictionary
 #' <div style = "width:100%; height: auto; margin: auto;">
@@ -25,6 +27,15 @@ datatable(dict, rownames = F,
 #' <div style = "width:100%; height: auto; margin: auto;">
 #+ echo=FALSE
 datatable(cogdict, rownames = F,
+          extensions = "Buttons",
+          options = list(scrollX = "800px",
+                         buttons = c("copy", "csv", "excel"),
+                         dom = "Blfrtip"))
+#' </div>
+#' ### IS Info
+#' <div style = "width:100%; height: auto; margin: auto;">
+#+ echo=FALSE
+datatable(ISinfo, rownames = F,
           extensions = "Buttons",
           options = list(scrollX = "800px",
                          buttons = c("copy", "csv", "excel"),

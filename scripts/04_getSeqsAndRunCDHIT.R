@@ -111,4 +111,3 @@ system2(command = cdhit[1],
 # }
 # 
 # xtfasta(is4xt)
-
