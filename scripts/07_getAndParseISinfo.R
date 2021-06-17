@@ -141,6 +141,12 @@ ISinfo = left_join(x = results,
 
 ISinfo = ISinfo[mixedorder(ISinfo$IS),]
 
+ISinfo = ISinfo %>% 
+  select(representative = locus_tag,
+         ISName = IS,
+         ISFamily,
+         ISSubgroup)
+
 # writing IS info file
 write_tsv(x = ISinfo,
           file = "data/is_info.tsv")
