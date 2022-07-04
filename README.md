@@ -10,10 +10,11 @@ Briefly:
   * https://www.ncbi.nlm.nih.gov/nuccore/BK010829 (data/chr.gff3);
   * https://www.ncbi.nlm.nih.gov/nuccore/BK010830 (data/pnrc100.gff3);
   * https://www.ncbi.nlm.nih.gov/nuccore/BK010831 (data/pnrc200.gff3).  
+  
 1.2) Files were renamed and concatenated;  
 1.3) Accession names where replaced in GFF3 file to match those of NCBI RefSeq;  
 
-2.1) NCBI RefSeq annotation and genome were automatically downloaded and minimally parsed from the [ftp resource](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/805/GCF_000006805.1_ASM680v1/);  
+2.1) NCBI RefSeq annotations and genomes ([ASM680v1](https://www.ncbi.nlm.nih.gov/assembly/GCF_000006805.1/ and [ASM6902v1](https://www.ncbi.nlm.nih.gov/assembly/GCF_000069025.1/)) were automatically downloaded and minimally parsed from the ftp resource;  
 
 3.1) Ng et al. 2000 derived annotation containing protein sequences was loaded and parsed;  
 
